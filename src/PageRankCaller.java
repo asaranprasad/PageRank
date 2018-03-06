@@ -62,10 +62,11 @@ public class PageRankCaller {
     int limit = 50;
 
     // 1. Test Graph
-    //    System.out.println("\nTest Graph");
-    //    Graph testGraph = new Graph(config.getOutputFolderPath() + "sampleGraph.txt");
-    //    pageRanks = pr.calculatePageRank(testGraph);
-    //    printPageRanksSortByScores(pageRanks,parentFolder+"Test.txt",limit);
+    System.out.println("\nTest Graph");
+    Graph testGraph = new Graph(parentFolder + "sampleGraph.txt");
+    pr = new PageRank(0.85);
+    pageRanks = pr.calculatePageRank(testGraph);
+    printPageRanksSortByScores(pageRanks, parentFolder + "TestTask.txt", limit);
 
     // 2. Graph 1 (BFS)
     System.out.println("BASE LINE - - - - - - - - - - - - - - - - - - - - - - -");
