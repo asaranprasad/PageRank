@@ -1,0 +1,1001 @@
+Count | Text | Depth | URL
+1 | Seed | 1 | https://en.wikipedia.org/wiki/Solar_eclipse
+2 | 1999 solar eclipse | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_11,_1999
+3 | France | 2 | https://en.wikipedia.org/wiki/France
+4 | French | 3 | https://en.wikipedia.org/wiki/French_language
+5 | L1 | 4 | https://en.wikipedia.org/wiki/First_language
+6 | Nakhchivan | 5 | https://en.wikipedia.org/wiki/Nakhchivan_(city)
+7 | Coordinates | 6 | https://en.wikipedia.org/wiki/Geographic_coordinate_system
+8 | Country | 6 | https://en.wikipedia.org/wiki/Countries_of_the_world
+9 | Azerbaijan | 6 | https://en.wikipedia.org/wiki/Azerbaijan
+10 | Autonomous republic | 6 | https://en.wikipedia.org/wiki/Administrative_divisions_of_Azerbaijan
+11 | Nakhchivan | 6 | https://en.wikipedia.org/wiki/Nakhchivan_Autonomous_Republic
+12 | Demonym(s) | 6 | https://en.wikipedia.org/wiki/Demonym
+13 | Time zone | 6 | https://en.wikipedia.org/wiki/Time_zone
+14 | GMT+4 | 6 | https://en.wikipedia.org/wiki/Greenwich_Mean_Time
+15 | UTC+4 | 6 | https://en.wikipedia.org/wiki/UTC%2B4
+16 | Armenian | 6 | https://en.wikipedia.org/wiki/Armenian_language
+17 | Azerbaijani | 6 | https://en.wikipedia.org/wiki/Azerbaijani_language
+18 | Baku | 6 | https://en.wikipedia.org/wiki/Baku
+19 | ?liabad | 6 | https://en.wikipedia.org/wiki/%C6%8Fliabad,_Nakhchivan
+20 | Ba?ba?? | 6 | https://en.wikipedia.org/wiki/Ba%C5%9Fba%C5%9F%C4%B1
+21 | Bulqan | 6 | https://en.wikipedia.org/wiki/Bulqan
+22 | Haciniyy?t | 6 | https://en.wikipedia.org/wiki/Haciniyy%C9%99t
+23 | Qaraçuq | 6 | https://en.wikipedia.org/wiki/Qara%C3%A7uq
+24 | Qaraxanb?yli | 6 | https://en.wikipedia.org/wiki/Qaraxanb%C9%99yli,_Nakhchivan
+25 | Tumbul | 6 | https://en.wikipedia.org/wiki/Tumbul
+26 | Qara?al?q | 6 | https://en.wikipedia.org/wiki/Qara%C4%9Fal%C4%B1q
+27 | Da?duz | 6 | https://en.wikipedia.org/wiki/Da%C5%9Fduz
+28 | Zangezur Mountains | 6 | https://en.wikipedia.org/wiki/Zangezur_Mountains
+29 | President | 6 | https://en.wikipedia.org/wiki/President_of_Azerbaijan
+30 | Azerbaijan Republic | 6 | https://en.wikipedia.org/wiki/Azerbaijan_Republic
+31 | Babek Rayon | 6 | https://en.wikipedia.org/wiki/Babek_Rayon
+32 | Tomb of Noah | 6 | https://en.wikipedia.org/wiki/Tomb_of_Noah
+33 | Noah’s Mausoleum (Nakhchivan, Azerbaijan) | 6 | https://en.wikipedia.org/wiki/Noah%E2%80%99s_Mausoleum_(Nakhchivan,_Azerbaijan)
+34 | Armenian | 6 | https://en.wikipedia.org/wiki/Armenia
+35 | Artaxides | 6 | https://en.wikipedia.org/wiki/Artaxiad_Dynasty
+36 | Arshakides | 6 | https://en.wikipedia.org/wiki/Arsacid_dynasty_of_Armenia
+37 | Bagratides | 6 | https://en.wikipedia.org/wiki/Bagratuni_Dynasty
+38 | Ptolemy | 6 | https://en.wikipedia.org/wiki/Ptolemy
+39 | Strabo | 6 | https://en.wikipedia.org/wiki/Strabo
+40 | Siwnik | 6 | https://en.wikipedia.org/wiki/Syunik_Province
+41 | Ananias of Shirak | 6 | https://en.wikipedia.org/wiki/Anania_Shirakatsi
+42 | Sebeos | 6 | https://en.wikipedia.org/wiki/Sebeos
+43 | Heraclius | 6 | https://en.wikipedia.org/wiki/Heraclius
+44 | campaign | 6 | https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628
+45 | Ganzak | 6 | https://en.wikipedia.org/wiki/Ganzak
+46 | Noah | 6 | https://en.wikipedia.org/wiki/Noah
+47 | Erivan Governorate | 6 | https://en.wikipedia.org/wiki/Erivan_Governorate
+48 | Russian Empire | 6 | https://en.wikipedia.org/wiki/Russian_Empire
+49 | Nagorno-Karabakh War | 6 | https://en.wikipedia.org/wiki/Nagorno-Karabakh_War
+50 | Turkey | 6 | https://en.wikipedia.org/wiki/Turkey
+51 | Iran | 6 | https://en.wikipedia.org/wiki/Iran
+52 | reforestation | 6 | https://en.wikipedia.org/wiki/Reforestation
+53 | continental | 6 | https://en.wikipedia.org/wiki/Continental_climate
+54 | semi-arid climate | 6 | https://en.wikipedia.org/wiki/Semi-arid_climate
+55 | Köppen | 6 | https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification
+56 | precipitation | 6 | https://en.wikipedia.org/wiki/Precipitation
+57 | sunshine hours | 6 | https://en.wikipedia.org/wiki/Sunshine_duration
+58 | handicraft | 6 | https://en.wikipedia.org/wiki/Handicraft
+59 | shoemaking | 6 | https://en.wikipedia.org/wiki/Shoemaking
+60 | hatmaking | 6 | https://en.wikipedia.org/wiki/Hatmaking
+61 | infrastructure | 6 | https://en.wikipedia.org/wiki/Infrastructure
+62 | growth | 6 | https://en.wikipedia.org/wiki/Economic_growth
+63 | Momine Khatun Mausoleum | 6 | https://en.wikipedia.org/wiki/Momine_Khatun_Mausoleum
+64 | Gulustan Mausoleum | 6 | https://en.wikipedia.org/wiki/Gulustan_Mausoleum
+65 | Garabaghlar Mausoleum | 6 | https://en.wikipedia.org/wiki/Garabaghlar_Mausoleum
+66 | Yusif ibn Kuseyir Mausoleum | 6 | https://en.wikipedia.org/wiki/Yusif_ibn_Kuseyir_Mausoleum
+67 | Imamzadeh mausoleum | 6 | https://en.wikipedia.org/wiki/Imamzadeh_complex_in_Nakhchivan
+68 | Mausoleum of Huseyn Javid | 6 | https://en.wikipedia.org/wiki/Mausoleum_of_Huseyn_Javid
+69 | Atabek | 6 | https://en.wikipedia.org/wiki/Atabek
+70 | Kufic script | 6 | https://en.wikipedia.org/wiki/Kufic
+71 | architect | 6 | https://en.wikipedia.org/wiki/Architect
+72 | Ajami Nakhchivani | 6 | https://en.wikipedia.org/wiki/Ajami_Nakhchivani
+73 | Heydar Aliyev | 6 | https://en.wikipedia.org/wiki/Heydar_Aliyev
+74 | Hussein Javid | 6 | https://en.wikipedia.org/wiki/Hussein_Javid
+75 | Gulag | 6 | https://en.wikipedia.org/wiki/Gulag
+76 | Joseph Stalin | 6 | https://en.wikipedia.org/wiki/Joseph_Stalin
+77 | Great Purge | 6 | https://en.wikipedia.org/wiki/Great_Purge
+78 | List of | 6 | https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites
+79 | World Heritage Sites | 6 | https://en.wikipedia.org/wiki/World_Heritage_Sites
+80 | UNESCO | 6 | https://en.wikipedia.org/wiki/UNESCO
+81 | Gulnara Mehmandarova | 6 | https://en.wikipedia.org/wiki/Gulnara_Mehmandarova
+82 | ICOMOS | 6 | https://en.wikipedia.org/wiki/ICOMOS
+83 | International Council on Monuments and Sites | 6 | https://en.wikipedia.org/wiki/International_Council_on_Monuments_and_Sites
+84 | shirin plov | 6 | https://en.wikipedia.org/wiki/Plov
+85 | Jamshid Nakhchivanski | 6 | https://en.wikipedia.org/wiki/Jamshid_Nakhichevanski
+86 | Bahruz Kangarli | 6 | https://en.wikipedia.org/wiki/Bahruz_Kangarli
+87 | mosques | 6 | https://en.wikipedia.org/wiki/Mosque
+88 | Sharg Gapisi | 6 | https://en.wikipedia.org/wiki/Sharg_Gapisi
+89 | Araz Naxçivan | 6 | https://en.wikipedia.org/wiki/Araz_Nax%C3%A7ivan
+90 | UEFA Futsal Cup | 6 | https://en.wikipedia.org/wiki/UEFA_Futsal_Cup
+91 | football | 6 | https://en.wikipedia.org/wiki/Association_football
+92 | Araz-Naxç?van | 6 | https://en.wikipedia.org/wiki/Araz-Nax%C3%A7%C4%B1van_PFK
+93 | Azerbaijan Premier League | 6 | https://en.wikipedia.org/wiki/Azerbaijan_Premier_League
+94 | Nakhchivan State University | 6 | https://en.wikipedia.org/wiki/Nakhchivan_State_University
+95 | Ministry of Transportation | 6 | https://en.wikipedia.org/wiki/Ministry_of_Transportation_(Azerbaijan)
+96 | Ganja | 6 | https://en.wikipedia.org/wiki/Ganja,_Azerbaijan
+97 | Sumqayit | 6 | https://en.wikipedia.org/wiki/Sumqayit
+98 | subway | 6 | https://en.wikipedia.org/wiki/Rapid_transit
+99 | trolleybus system | 6 | https://en.wikipedia.org/wiki/Trolleybuses_in_Nakhchivan
+100 | Nakhchivan Airport | 6 | https://en.wikipedia.org/wiki/Nakhchivan_Airport
+101 | Ordubad | 6 | https://en.wikipedia.org/wiki/Ordubad
+102 | Sharur | 6 | https://en.wikipedia.org/wiki/Sharur
+103 | Huseyn Javid | 6 | https://en.wikipedia.org/wiki/Huseyn_Javid
+104 | Jalil Mammadguluzadeh | 6 | https://en.wikipedia.org/wiki/Jalil_Mammadguluzadeh
+105 | Azer Zeynalov | 6 | https://en.wikipedia.org/wiki/Azer_Zeynalov
+106 | Rza Tahmasib | 6 | https://en.wikipedia.org/wiki/Rza_Tahmasib
+107 | Huseyn Khan Nakhchivanski | 6 | https://en.wikipedia.org/wiki/Huseyn_Khan_Nakhchivanski
+108 | Jamshid Nakhchivanski | 6 | https://en.wikipedia.org/wiki/Jamshid_Nakhchivanski
+109 | Abdurrahman Fatalibeyli | 6 | https://en.wikipedia.org/wiki/Abdurrahman_Fatalibeyli
+110 | Soviet army | 6 | https://en.wikipedia.org/wiki/Soviet_army
+111 | German forces | 6 | https://en.wikipedia.org/wiki/Nazi_Germany
+112 | World War II | 6 | https://en.wikipedia.org/wiki/World_War_II
+113 | Khetcho | 6 | https://en.wikipedia.org/wiki/Khetcho
+114 | Iranian Constitutional Revolution | 6 | https://en.wikipedia.org/wiki/Iranian_Constitutional_Revolution
+115 | Ruben Orbeli | 6 | https://en.wikipedia.org/wiki/Ruben_Orbeli
+116 | Russian Imperial | 6 | https://en.wikipedia.org/wiki/Russian_Imperial_Army
+117 | Azerbaijani | 6 | https://en.wikipedia.org/wiki/Azerbaijan_Democratic_Republic
+118 | Soviet | 6 | https://en.wikipedia.org/wiki/Soviet_Union
+119 | Ali M. Hasanov | 6 | https://en.wikipedia.org/wiki/Ali_M._Hasanov
+120 | Agil Mammadov | 6 | https://en.wikipedia.org/wiki/Agil_Mammadov_(footballer,_born_1989)
+121 | twinned | 6 | https://en.wikipedia.org/wiki/Sister_cities
+122 |  | 6 | https://en.wikipedia.org/wiki/Georgia_(country)
+123 | Batumi | 6 | https://en.wikipedia.org/wiki/Batumi
+124 | coat of arms | 6 | https://en.wikipedia.org/wiki/Coat_of_arms
+125 | Nakhichevan Khanate | 6 | https://en.wikipedia.org/wiki/Nakhichevan_Khanate
+126 | Wayback Machine | 6 | https://en.wikipedia.org/wiki/Wayback_Machine
+127 | Soviet Armenian Encyclopedia | 6 | https://en.wikipedia.org/wiki/Soviet_Armenian_Encyclopedia
+128 | Armenian Academy of Sciences | 6 | https://en.wikipedia.org/wiki/Armenian_Academy_of_Sciences
+129 | National Oceanic and Atmospheric Administration | 6 | https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration
+130 | GEOnet Names Server | 6 | https://en.wikipedia.org/wiki/GEOnet_Names_Server
+131 | language | 5 | https://en.wikipedia.org/wiki/Language
+132 | Teotihuacan | 6 | https://en.wikipedia.org/wiki/Teotihuacan
+133 | speech scroll | 6 | https://en.wikipedia.org/wiki/Speech_scroll
+134 | Cuneiform | 6 | https://en.wikipedia.org/wiki/Cuneiform
+135 | written language | 6 | https://en.wikipedia.org/wiki/Written_language
+136 | spoken language | 6 | https://en.wikipedia.org/wiki/Spoken_language
+137 | American Sign Language | 6 | https://en.wikipedia.org/wiki/American_Sign_Language
+138 | Braille | 6 | https://en.wikipedia.org/wiki/Braille
+139 | tactile | 6 | https://en.wikipedia.org/wiki/Touch
+140 | writing system | 6 | https://en.wikipedia.org/wiki/Writing_system
+141 | communication | 6 | https://en.wikipedia.org/wiki/Communication
+142 | human | 6 | https://en.wikipedia.org/wiki/Human
+143 | linguistics | 6 | https://en.wikipedia.org/wiki/Linguistics
+144 | philosophy of language | 6 | https://en.wikipedia.org/wiki/Philosophy_of_language
+145 | Gorgias | 6 | https://en.wikipedia.org/wiki/Gorgias
+146 | Plato | 6 | https://en.wikipedia.org/wiki/Plato
+147 | ancient Greece | 6 | https://en.wikipedia.org/wiki/Ancient_Greece
+148 | Rousseau | 6 | https://en.wikipedia.org/wiki/Rousseau
+149 | emotions | 6 | https://en.wikipedia.org/wiki/Emotion
+150 | Kant | 6 | https://en.wikipedia.org/wiki/Immanuel_Kant
+151 | Wittgenstein | 6 | https://en.wikipedia.org/wiki/Ludwig_Wittgenstein
+152 | Ferdinand de Saussure | 6 | https://en.wikipedia.org/wiki/Ferdinand_de_Saussure
+153 | Noam Chomsky | 6 | https://en.wikipedia.org/wiki/Noam_Chomsky
+154 | dialects | 6 | https://en.wikipedia.org/wiki/Dialect
+155 | Natural languages | 6 | https://en.wikipedia.org/wiki/Natural_language
+156 | spoken | 6 | https://en.wikipedia.org/wiki/Speech
+157 | signed | 6 | https://en.wikipedia.org/wiki/Sign_language
+158 | encoded | 6 | https://en.wikipedia.org/wiki/Encoding_(semiotics)
+159 | stimuli | 6 | https://en.wikipedia.org/wiki/Stimulus_(physiology)
+160 | whistling | 6 | https://en.wikipedia.org/wiki/Whistled_language
+161 | modality | 6 | https://en.wikipedia.org/wiki/Modality_(semiotics)
+162 | cognitive | 6 | https://en.wikipedia.org/wiki/Cognitive
+163 | semiosis | 6 | https://en.wikipedia.org/wiki/Semiosis
+164 | signs | 6 | https://en.wikipedia.org/wiki/Sign_(linguistics)
+165 | meanings | 6 | https://en.wikipedia.org/wiki/Meaning_(linguistics)
+166 | Oral | 6 | https://en.wikipedia.org/wiki/Oral_language
+167 | phonological | 6 | https://en.wikipedia.org/wiki/Phonology
+168 | morphemes | 6 | https://en.wikipedia.org/wiki/Morpheme
+169 | syntactic | 6 | https://en.wikipedia.org/wiki/Syntax
+170 | productivity | 6 | https://en.wikipedia.org/wiki/Productivity_(linguistics)
+171 | displacement | 6 | https://en.wikipedia.org/wiki/Displacement_(linguistics)
+172 | animal communication | 6 | https://en.wikipedia.org/wiki/Animal_communication
+173 | hominins | 6 | https://en.wikipedia.org/wiki/Hominin
+174 | theory of other minds | 6 | https://en.wikipedia.org/wiki/Theory_of_mind
+175 | intentionality | 6 | https://en.wikipedia.org/wiki/Intentionality
+176 | human brain | 6 | https://en.wikipedia.org/wiki/Human_brain
+177 | Broca's | 6 | https://en.wikipedia.org/wiki/Broca%27s_area
+178 | Wernicke's areas | 6 | https://en.wikipedia.org/wiki/Wernicke%27s_area
+179 | acquire | 6 | https://en.wikipedia.org/wiki/Language_acquisition
+180 | culture | 6 | https://en.wikipedia.org/wiki/Culture
+181 | identity | 6 | https://en.wikipedia.org/wiki/Identity_(social_science)
+182 | social stratification | 6 | https://en.wikipedia.org/wiki/Social_stratification
+183 | social grooming | 6 | https://en.wikipedia.org/wiki/Social_grooming
+184 | entertainment | 6 | https://en.wikipedia.org/wiki/Entertainment
+185 | evolve | 6 | https://en.wikipedia.org/wiki/Language_change
+186 | reconstructed | 6 | https://en.wikipedia.org/wiki/Historical_linguistics
+187 | comparing | 6 | https://en.wikipedia.org/wiki/Comparative_method_(linguistics)
+188 | language family | 6 | https://en.wikipedia.org/wiki/Language_family
+189 | Indo-European family | 6 | https://en.wikipedia.org/wiki/Indo-European_languages
+190 | English | 6 | https://en.wikipedia.org/wiki/English_language
+191 | Russian | 6 | https://en.wikipedia.org/wiki/Russian_language
+192 | Hindi | 6 | https://en.wikipedia.org/wiki/Hindi
+193 | Sino-Tibetan family | 6 | https://en.wikipedia.org/wiki/Sino-Tibetan_languages
+194 | Mandarin | 6 | https://en.wikipedia.org/wiki/Mandarin_Chinese
+195 | Bodo | 6 | https://en.wikipedia.org/wiki/Bodo_language
+196 | Chinese languages | 6 | https://en.wikipedia.org/wiki/Chinese_language
+197 | Tibetan | 6 | https://en.wikipedia.org/wiki/Standard_Tibetan
+198 | Afro-Asiatic family | 6 | https://en.wikipedia.org/wiki/Afro-Asiatic_languages
+199 | Arabic | 6 | https://en.wikipedia.org/wiki/Arabic_language
+200 | Somali | 6 | https://en.wikipedia.org/wiki/Somali_language
+201 | Hebrew | 6 | https://en.wikipedia.org/wiki/Hebrew_language
+202 | Bantu languages | 6 | https://en.wikipedia.org/wiki/Bantu_languages
+203 | Swahili | 6 | https://en.wikipedia.org/wiki/Swahili_language
+204 | Zulu | 6 | https://en.wikipedia.org/wiki/Zulu_language
+205 | Africa | 6 | https://en.wikipedia.org/wiki/Africa
+206 | Malayo-Polynesian languages | 6 | https://en.wikipedia.org/wiki/Malayo-Polynesian_languages
+207 | Indonesian | 6 | https://en.wikipedia.org/wiki/Indonesian_language
+208 | Malay | 6 | https://en.wikipedia.org/wiki/Malay_language
+209 | Tagalog | 6 | https://en.wikipedia.org/wiki/Tagalog_language
+210 | Pacific | 6 | https://en.wikipedia.org/wiki/Pacific
+211 | Dravidian family | 6 | https://en.wikipedia.org/wiki/Dravidian_language
+212 | Tamil | 6 | https://en.wikipedia.org/wiki/Tamil_language
+213 | Telugu | 6 | https://en.wikipedia.org/wiki/Telugu_language
+214 | Proto-Indo-European | 6 | https://en.wikipedia.org/wiki/Proto-Indo-European_language
+215 | Latin | 6 | https://en.wikipedia.org/wiki/Latin
+216 | Old French | 6 | https://en.wikipedia.org/wiki/Old_French
+217 | codes | 6 | https://en.wikipedia.org/wiki/Code
+218 | ciphers | 6 | https://en.wikipedia.org/wiki/Cipher
+219 | artificially constructed communication systems | 6 | https://en.wikipedia.org/wiki/Constructed_language
+220 | computer programming | 6 | https://en.wikipedia.org/wiki/Programming_language
+221 | formal language | 6 | https://en.wikipedia.org/wiki/Formal_language
+222 | system | 6 | https://en.wikipedia.org/wiki/System
+223 | encoding | 6 | https://en.wikipedia.org/wiki/Encoding
+224 | information | 6 | https://en.wikipedia.org/wiki/Information
+225 | langue | 6 | https://en.wikipedia.org/wiki/Langue_and_parole
+226 | Enlightenment | 6 | https://en.wikipedia.org/wiki/Age_of_Enlightenment
+227 | Herder | 6 | https://en.wikipedia.org/wiki/Johann_Gottfried_Herder
+228 | Descartes | 6 | https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+229 | linguistic turn | 6 | https://en.wikipedia.org/wiki/Linguistic_turn
+230 | mental faculty | 6 | https://en.wikipedia.org/wiki/Mind
+231 | creole languages | 6 | https://en.wikipedia.org/wiki/Creole_languages
+232 | Nicaraguan Sign Language | 6 | https://en.wikipedia.org/wiki/Nicaraguan_Sign_Language
+233 | innate | 6 | https://en.wikipedia.org/wiki/Innatism
+234 | Universal Grammar | 6 | https://en.wikipedia.org/wiki/Universal_Grammar
+235 | Jerry Fodor | 6 | https://en.wikipedia.org/wiki/Jerry_Fodor
+236 | cognitive science | 6 | https://en.wikipedia.org/wiki/Cognitive_science
+237 | neurolinguistics | 6 | https://en.wikipedia.org/wiki/Neurolinguistics
+238 | formal system | 6 | https://en.wikipedia.org/wiki/Formal_system
+239 | structural systems | 6 | https://en.wikipedia.org/wiki/Structural_linguistics
+240 | structuralist | 6 | https://en.wikipedia.org/wiki/Structuralism
+241 | generative theory of grammar | 6 | https://en.wikipedia.org/wiki/Generative_linguistics
+242 | formal logic | 6 | https://en.wikipedia.org/wiki/Formal_logic
+243 | formal | 6 | https://en.wikipedia.org/wiki/Formal_grammar
+244 | theories of grammar | 6 | https://en.wikipedia.org/wiki/Theoretical_linguistics
+245 | computational linguistics | 6 | https://en.wikipedia.org/wiki/Computational_linguistics
+246 | Alfred Tarski | 6 | https://en.wikipedia.org/wiki/Alfred_Tarski
+247 | Bertrand Russell | 6 | https://en.wikipedia.org/wiki/Bertrand_Russell
+248 | Functional theories of grammar | 6 | https://en.wikipedia.org/wiki/Functional_theories_of_grammar
+249 | pragmatic | 6 | https://en.wikipedia.org/wiki/Pragmatics
+250 | cognitive | 6 | https://en.wikipedia.org/wiki/Cognitive_linguistics
+251 | sociolinguistics | 6 | https://en.wikipedia.org/wiki/Sociolinguistics
+252 | linguistic anthropology | 6 | https://en.wikipedia.org/wiki/Linguistic_anthropology
+253 | linguistic typology | 6 | https://en.wikipedia.org/wiki/Linguistic_typology
+254 | grammaticalization | 6 | https://en.wikipedia.org/wiki/Grammaticalization
+255 | J. L. Austin | 6 | https://en.wikipedia.org/wiki/J._L._Austin
+256 | Paul Grice | 6 | https://en.wikipedia.org/wiki/Paul_Grice
+257 | John Searle | 6 | https://en.wikipedia.org/wiki/John_Searle
+258 | W. O. Quine | 6 | https://en.wikipedia.org/wiki/Willard_van_Orman_Quine
+259 | Charles Hockett's | 6 | https://en.wikipedia.org/wiki/Charles_F._Hockett
+260 | design features of language | 6 | https://en.wikipedia.org/wiki/Hockett%27s_design_features
+261 | semanticity | 6 | https://en.wikipedia.org/wiki/Semanticity
+262 | arbitrariness | 6 | https://en.wikipedia.org/wiki/Arbitrariness
+263 | duality of patterning | 6 | https://en.wikipedia.org/wiki/Double_articulation
+264 | animals | 6 | https://en.wikipedia.org/wiki/Animal_language
+265 | bees | 6 | https://en.wikipedia.org/wiki/Bee_learning_and_communication
+266 | apes | 6 | https://en.wikipedia.org/wiki/Great_ape_language
+267 | bonobo | 6 | https://en.wikipedia.org/wiki/Bonobo
+268 | Kanzi | 6 | https://en.wikipedia.org/wiki/Kanzi
+269 | lexigrams | 6 | https://en.wikipedia.org/wiki/Lexigram
+270 | grammatical and semantic categories | 6 | https://en.wikipedia.org/wiki/Grammatical_categories
+271 | bees | 6 | https://en.wikipedia.org/wiki/Bee
+272 | The Tower of Babel | 6 | https://en.wikipedia.org/wiki/The_Tower_of_Babel
+273 | Pieter Bruegel the Elder | 6 | https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder
+274 | Biblical myth | 6 | https://en.wikipedia.org/wiki/Christian_mythology
+275 | Tower of Babel | 6 | https://en.wikipedia.org/wiki/Tower_of_Babel
+276 | Steven Pinker | 6 | https://en.wikipedia.org/wiki/Steven_Pinker
+277 | animal cognition | 6 | https://en.wikipedia.org/wiki/Animal_cognition
+278 | Michael Tomasello | 6 | https://en.wikipedia.org/wiki/Michael_Tomasello
+279 | music | 6 | https://en.wikipedia.org/wiki/Music
+280 | Rousseau | 6 | https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
+281 | Humboldt | 6 | https://en.wikipedia.org/wiki/Wilhelm_von_Humboldt
+282 | Charles Darwin | 6 | https://en.wikipedia.org/wiki/Charles_Darwin
+283 | Steven Mithen | 6 | https://en.wikipedia.org/wiki/Steven_Mithen
+284 | Stephen Anderson | 6 | https://en.wikipedia.org/wiki/Stephen_R._Anderson
+285 | prehistory | 6 | https://en.wikipedia.org/wiki/Prehistory
+286 | larynx | 6 | https://en.wikipedia.org/wiki/Larynx
+287 | australopithecines | 6 | https://en.wikipedia.org/wiki/Australopithecine
+288 | great apes | 6 | https://en.wikipedia.org/wiki/Great_ape
+289 | Homo | 6 | https://en.wikipedia.org/wiki/Homo
+290 | Homo habilis | 6 | https://en.wikipedia.org/wiki/Homo_habilis
+291 | Homo erectus | 6 | https://en.wikipedia.org/wiki/Homo_erectus
+292 | Homo heidelbergensis | 6 | https://en.wikipedia.org/wiki/Homo_heidelbergensis
+293 | Anatomically Modern Homo sapiens | 6 | https://en.wikipedia.org/wiki/Anatomically_modern_humans
+294 | Upper Paleolithic revolution | 6 | https://en.wikipedia.org/wiki/Behavioral_modernity
+295 | William Jones | 6 | https://en.wikipedia.org/wiki/William_Jones_(philologist)
+296 | Sanskrit | 6 | https://en.wikipedia.org/wiki/Sanskrit
+297 | India | 6 | https://en.wikipedia.org/wiki/India
+298 | Brahmi script | 6 | https://en.wikipedia.org/wiki/Brahmi_script
+299 | descriptive linguistics | 6 | https://en.wikipedia.org/wiki/Descriptive_linguistics
+300 | comparative method | 6 | https://en.wikipedia.org/wiki/Comparative_method
+301 | P??ini | 6 | https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini
+302 | morphology | 6 | https://en.wikipedia.org/wiki/Morphology_(linguistics)
+303 | Sumerian | 6 | https://en.wikipedia.org/wiki/Sumer
+304 | Sumerian | 6 | https://en.wikipedia.org/wiki/Sumerian_language
+305 | Akkadian | 6 | https://en.wikipedia.org/wiki/Akkadian_language
+306 | Port-Royal Grammarians | 6 | https://en.wikipedia.org/wiki/Port-Royal_Grammar
+307 | philologist | 6 | https://en.wikipedia.org/wiki/Philologist
+308 | comparative linguistics | 6 | https://en.wikipedia.org/wiki/Comparative_linguistics
+309 | diachronic | 6 | https://en.wikipedia.org/wiki/Diachronic_linguistics
+310 | synchronic | 6 | https://en.wikipedia.org/wiki/Synchronic_linguistics
+311 | syntagm | 6 | https://en.wikipedia.org/wiki/Syntagmatic_analysis
+312 | paradigm | 6 | https://en.wikipedia.org/wiki/Paradigmatic_analysis
+313 | genetic | 6 | https://en.wikipedia.org/wiki/Genetics
+314 | FOXP2 | 6 | https://en.wikipedia.org/wiki/FOXP2
+315 | congenital language disorder | 6 | https://en.wikipedia.org/wiki/Developmental_verbal_dyspraxia
+316 | mutations | 6 | https://en.wikipedia.org/wiki/Mutation
+317 | Angular Gyrus | 6 | https://en.wikipedia.org/wiki/Angular_Gyrus
+318 | Supramarginal Gyrus | 6 | https://en.wikipedia.org/wiki/Supramarginal_Gyrus
+319 | Primary Auditory Cortex | 6 | https://en.wikipedia.org/wiki/Primary_Auditory_Cortex
+320 | superior temporal gyrus | 6 | https://en.wikipedia.org/wiki/Superior_temporal_gyrus
+321 | receptive aphasia | 6 | https://en.wikipedia.org/wiki/Receptive_aphasia
+322 | inferior frontal gyrus | 6 | https://en.wikipedia.org/wiki/Inferior_frontal_gyrus
+323 | expressive aphasia | 6 | https://en.wikipedia.org/wiki/Expressive_aphasia
+324 | word repetition | 6 | https://en.wikipedia.org/wiki/Word_repetition
+325 | functional magnetic resonance imaging | 6 | https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging
+326 | electrophysiology | 6 | https://en.wikipedia.org/wiki/Electrophysiology
+327 | Spectrogram | 6 | https://en.wikipedia.org/wiki/Spectrogram
+328 | ear drum | 6 | https://en.wikipedia.org/wiki/Ear_drum
+329 | segmental and suprasegmental | 6 | https://en.wikipedia.org/wiki/Segment_(linguistics)
+330 | stress | 6 | https://en.wikipedia.org/wiki/Stress_(linguistics)
+331 | phonation | 6 | https://en.wikipedia.org/wiki/Phonation
+332 | timbre | 6 | https://en.wikipedia.org/wiki/Timbre
+333 | prosody | 6 | https://en.wikipedia.org/wiki/Prosody_(linguistics)
+334 | intonation | 6 | https://en.wikipedia.org/wiki/Intonation_(linguistics)
+335 | Consonants | 6 | https://en.wikipedia.org/wiki/Consonant
+336 | vowel | 6 | https://en.wikipedia.org/wiki/Vowel
+337 | syllables | 6 | https://en.wikipedia.org/wiki/Syllable
+338 | Acoustically | 6 | https://en.wikipedia.org/wiki/Acoustics
+339 | formant | 6 | https://en.wikipedia.org/wiki/Formant
+340 | close | 6 | https://en.wikipedia.org/wiki/Close_vowel
+341 | open | 6 | https://en.wikipedia.org/wiki/Open_vowel
+342 | rounded | 6 | https://en.wikipedia.org/wiki/Roundedness
+343 | rounded front vowel | 6 | https://en.wikipedia.org/wiki/Rounded_front_vowel
+344 | alveolar ridge | 6 | https://en.wikipedia.org/wiki/Alveolar_ridge
+345 | palate | 6 | https://en.wikipedia.org/wiki/Palate
+346 | velum | 6 | https://en.wikipedia.org/wiki/Soft_palate
+347 | uvula | 6 | https://en.wikipedia.org/wiki/Uvula
+348 | glottis | 6 | https://en.wikipedia.org/wiki/Glottis
+349 | manner of articulation | 6 | https://en.wikipedia.org/wiki/Manner_of_articulation
+350 | occlusive | 6 | https://en.wikipedia.org/wiki/Occlusive
+351 | stop | 6 | https://en.wikipedia.org/wiki/Stop_consonant
+352 | fricatives | 6 | https://en.wikipedia.org/wiki/Fricative
+353 | approximants | 6 | https://en.wikipedia.org/wiki/Approximant_consonant
+354 | voiced or unvoiced | 6 | https://en.wikipedia.org/wiki/Voice_(phonetics)
+355 | unvoiced sibilant | 6 | https://en.wikipedia.org/wiki/Sibilant
+356 | nasals | 6 | https://en.wikipedia.org/wiki/Nasal_consonant
+357 | nasalized | 6 | https://en.wikipedia.org/wiki/Nasalization
+358 | laterals | 6 | https://en.wikipedia.org/wiki/Lateral_consonant
+359 | rhotics | 6 | https://en.wikipedia.org/wiki/Rhotics
+360 | symbolic communication | 6 | https://en.wikipedia.org/wiki/Symbolic_communication
+361 | signs | 6 | https://en.wikipedia.org/wiki/Sign_(semiotics)
+362 | meanings | 6 | https://en.wikipedia.org/wiki/Meaning_(semiotics)
+363 | code | 6 | https://en.wikipedia.org/wiki/Code_(semiotics)
+364 | semiotics | 6 | https://en.wikipedia.org/wiki/Semiotics
+365 | Thanjavur | 6 | https://en.wikipedia.org/wiki/Thanjavur
+366 | semantics | 6 | https://en.wikipedia.org/wiki/Semantics
+367 | vocabulary | 6 | https://en.wikipedia.org/wiki/Vocabulary
+368 | Canis familiaris | 6 | https://en.wikipedia.org/wiki/Canis_familiaris
+369 | lexicon | 6 | https://en.wikipedia.org/wiki/Lexicon
+370 | lexeme | 6 | https://en.wikipedia.org/wiki/Lexeme
+371 | grammatical categories | 6 | https://en.wikipedia.org/wiki/Grammatical_category
+372 | predication | 6 | https://en.wikipedia.org/wiki/Predicate_(grammar)
+373 | truth values | 6 | https://en.wikipedia.org/wiki/Truth_value
+374 | Hangul | 6 | https://en.wikipedia.org/wiki/Hangul
+375 | Korean Sign Language | 6 | https://en.wikipedia.org/wiki/Korean_Sign_Language
+376 | Korean manual alphabet | 6 | https://en.wikipedia.org/wiki/Korean_manual_alphabet
+377 | phonetics | 6 | https://en.wikipedia.org/wiki/Phonetics
+378 | phonemes | 6 | https://en.wikipedia.org/wiki/Phonemes
+379 | minimal pair | 6 | https://en.wikipedia.org/wiki/Minimal_pair
+380 | aspirated and non-aspirated | 6 | https://en.wikipedia.org/wiki/Aspiration_(linguistics)
+381 | Korean | 6 | https://en.wikipedia.org/wiki/Korean_language
+382 | allophones | 6 | https://en.wikipedia.org/wiki/Allophones
+383 | vowels | 6 | https://en.wikipedia.org/wiki/Vowels
+384 | consonants | 6 | https://en.wikipedia.org/wiki/Consonants
+385 | pitch | 6 | https://en.wikipedia.org/wiki/Pitch_accent
+386 | duration | 6 | https://en.wikipedia.org/wiki/Vowel_length
+387 | tone | 6 | https://en.wikipedia.org/wiki/Tonal_language
+388 | suprasegmental | 6 | https://en.wikipedia.org/wiki/Suprasegmental
+389 | Rotokas | 6 | https://en.wikipedia.org/wiki/Rotokas_language
+390 | Pirahã language | 6 | https://en.wikipedia.org/wiki/Pirah%C3%A3_language
+391 | cheremes | 6 | https://en.wikipedia.org/wiki/Chereme
+392 | Latin alphabet | 6 | https://en.wikipedia.org/wiki/Latin_alphabet
+393 | Inuktitut | 6 | https://en.wikipedia.org/wiki/Inuktitut
+394 | logographic | 6 | https://en.wikipedia.org/wiki/Logographic
+395 | Arabic script | 6 | https://en.wikipedia.org/wiki/Arabic_script
+396 | International Phonetic Alphabet | 6 | https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
+397 | words | 6 | https://en.wikipedia.org/wiki/Word
+398 | affixes | 6 | https://en.wikipedia.org/wiki/Affix
+399 | distinguishing between their relations | 6 | https://en.wikipedia.org/wiki/Morphosyntactic_alignment
+400 | temporal | 6 | https://en.wikipedia.org/wiki/Grammatical_tense
+401 | spatial | 6 | https://en.wikipedia.org/wiki/Preposition_and_postposition
+402 | grammatical person | 6 | https://en.wikipedia.org/wiki/Grammatical_person
+403 | parts of speech | 6 | https://en.wikipedia.org/wiki/Parts_of_speech
+404 | nouns | 6 | https://en.wikipedia.org/wiki/Noun
+405 | verbs | 6 | https://en.wikipedia.org/wiki/Verb
+406 | adjective | 6 | https://en.wikipedia.org/wiki/Adjective
+407 | arguments | 6 | https://en.wikipedia.org/wiki/Argument
+408 | intransitive | 6 | https://en.wikipedia.org/wiki/Transitivity_(grammar)
+409 | transitive | 6 | https://en.wikipedia.org/wiki/Transitive_verb
+410 | conjunctions | 6 | https://en.wikipedia.org/wiki/Conjunction_(grammar)
+411 | articles | 6 | https://en.wikipedia.org/wiki/Article_(grammar)
+412 | interjections | 6 | https://en.wikipedia.org/wiki/Interjections
+413 | ideophones | 6 | https://en.wikipedia.org/wiki/Ideophones
+414 | classifiers | 6 | https://en.wikipedia.org/wiki/Classifier_(linguistics)
+415 | Japanese | 6 | https://en.wikipedia.org/wiki/Japanese_language
+416 | roots | 6 | https://en.wikipedia.org/wiki/Root_(linguistics)
+417 | prefixes | 6 | https://en.wikipedia.org/wiki/Prefix
+418 | suffixes | 6 | https://en.wikipedia.org/wiki/Suffix
+419 | infixes | 6 | https://en.wikipedia.org/wiki/Infix
+420 | ablaut | 6 | https://en.wikipedia.org/wiki/Ablaut
+421 | inflection | 6 | https://en.wikipedia.org/wiki/Inflection
+422 | derivation | 6 | https://en.wikipedia.org/wiki/Morphological_derivation
+423 | isolating | 6 | https://en.wikipedia.org/wiki/Isolating_language
+424 | nominative | 6 | https://en.wikipedia.org/wiki/Nominative
+425 | fusional languages | 6 | https://en.wikipedia.org/wiki/Fusional_languages
+426 | agglutinative languages | 6 | https://en.wikipedia.org/wiki/Agglutinative_languages
+427 | Turkish | 6 | https://en.wikipedia.org/wiki/Turkish_language
+428 | polysynthetic languages | 6 | https://en.wikipedia.org/wiki/Polysynthetic_languages
+429 | Persian | 6 | https://en.wikipedia.org/wiki/Persian_language
+430 | Yupik | 6 | https://en.wikipedia.org/wiki/Yupik_language
+431 | agreement | 6 | https://en.wikipedia.org/wiki/Agreement_(linguistics)
+432 | Basque | 6 | https://en.wikipedia.org/wiki/Basque_language
+433 | subject | 6 | https://en.wikipedia.org/wiki/Subject_(grammar)
+434 | locative | 6 | https://en.wikipedia.org/wiki/Locative_(case)
+435 | Latin | 6 | https://en.wikipedia.org/wiki/Latin_language
+436 | accusative case | 6 | https://en.wikipedia.org/wiki/Accusative_case
+437 | grammatical object | 6 | https://en.wikipedia.org/wiki/Object_(grammar)
+438 | nominative case | 6 | https://en.wikipedia.org/wiki/Nominative_case
+439 | inverse word order in questions | 6 | https://en.wikipedia.org/wiki/Wh-movement
+440 | special emphasis | 6 | https://en.wikipedia.org/wiki/Focus_(linguistics)
+441 | phrases | 6 | https://en.wikipedia.org/wiki/Phrase
+442 | word order | 6 | https://en.wikipedia.org/wiki/Word_order
+443 | sentence | 6 | https://en.wikipedia.org/wiki/Sentence_(linguistics)
+444 | SVO | 6 | https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object
+445 | Australian language | 6 | https://en.wikipedia.org/wiki/Australian_Aboriginal_languages
+446 | Gamilaraay | 6 | https://en.wikipedia.org/wiki/Gamilaraay_language
+447 | SOV | 6 | https://en.wikipedia.org/wiki/Subject-object-verb
+448 | prepositions | 6 | https://en.wikipedia.org/wiki/Prepositions
+449 | postpositions | 6 | https://en.wikipedia.org/wiki/Postpositions
+450 | implicational universals | 6 | https://en.wikipedia.org/wiki/Linguistic_universals
+451 | nominative-accusative | 6 | https://en.wikipedia.org/wiki/Nominative%E2%80%93absolutive_language
+452 | ergative | 6 | https://en.wikipedia.org/wiki/Ergativity
+453 | tripartite type | 6 | https://en.wikipedia.org/wiki/Tripartite_language
+454 | Wall of Love | 6 | https://en.wikipedia.org/wiki/Wall_of_Love
+455 | Paris | 6 | https://en.wikipedia.org/wiki/Paris
+456 | communities of speakers | 6 | https://en.wikipedia.org/wiki/Speech_community
+457 | communicate | 6 | https://en.wikipedia.org/wiki/Communicate
+458 | language contact | 6 | https://en.wikipedia.org/wiki/Language_contact
+459 | evolution | 6 | https://en.wikipedia.org/wiki/Evolution
+460 | phylogenetic tree | 6 | https://en.wikipedia.org/wiki/Phylogenetic_tree
+461 | diffusion | 6 | https://en.wikipedia.org/wiki/Diffusion
+462 | endangered | 6 | https://en.wikipedia.org/wiki/Endangered_language
+463 | deixis | 6 | https://en.wikipedia.org/wiki/Deixis
+464 | speech acts | 6 | https://en.wikipedia.org/wiki/Speech_act
+465 | conversational implicatures | 6 | https://en.wikipedia.org/wiki/Conversational_implicature
+466 | communicative competence | 6 | https://en.wikipedia.org/wiki/Communicative_competence
+467 | normally developing | 6 | https://en.wikipedia.org/wiki/Human_development_(biology)
+468 | The Descent of Man | 6 | https://en.wikipedia.org/wiki/The_Descent_of_Man,_and_Selection_in_Relation_to_Sex
+469 | Qualla Boundary | 6 | https://en.wikipedia.org/wiki/Qualla_Boundary
+470 | North Carolina | 6 | https://en.wikipedia.org/wiki/North_Carolina
+471 | Cherokee language | 6 | https://en.wikipedia.org/wiki/Cherokee_language
+472 | pre-school | 6 | https://en.wikipedia.org/wiki/Pre-school
+473 | speech sounds | 6 | https://en.wikipedia.org/wiki/Phone_(phonetics)
+474 | babbling | 6 | https://en.wikipedia.org/wiki/Babbling
+475 | handshapes | 6 | https://en.wikipedia.org/wiki/Handshape
+476 | utterances | 6 | https://en.wikipedia.org/wiki/Utterance
+477 | holophrases | 6 | https://en.wikipedia.org/wiki/Holophrasis
+478 | telegraphic speech | 6 | https://en.wikipedia.org/wiki/Telegraphic_speech
+479 | grammatically | 6 | https://en.wikipedia.org/wiki/Grammar
+480 | fetuses | 6 | https://en.wikipedia.org/wiki/Fetus
+481 | Arnold Lakhovsky | 6 | https://en.wikipedia.org/wiki/Arnold_Lakhovsky
+482 | ethnolinguists | 6 | https://en.wikipedia.org/wiki/Anthropological_linguistics
+483 | varieties | 6 | https://en.wikipedia.org/wiki/Variety_(linguistics)
+484 | jargons | 6 | https://en.wikipedia.org/wiki/Register_(sociolinguistics)
+485 | styles | 6 | https://en.wikipedia.org/wiki/Style_shifting
+486 | subcultures | 6 | https://en.wikipedia.org/wiki/Subculture
+487 | social classes | 6 | https://en.wikipedia.org/wiki/Social_class
+488 | Dyirbal | 6 | https://en.wikipedia.org/wiki/Dyirbal_language
+489 | Thai | 6 | https://en.wikipedia.org/wiki/Thai_language
+490 | Burmese | 6 | https://en.wikipedia.org/wiki/Burmese_language
+491 | Javanese | 6 | https://en.wikipedia.org/wiki/Old_Javanese
+492 | Swampy Cree | 6 | https://en.wikipedia.org/wiki/Swampy_Cree_language
+493 | Canadian Aboriginal syllabics | 6 | https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics
+494 | abugida | 6 | https://en.wikipedia.org/wiki/Abugida
+495 | writing systems | 6 | https://en.wikipedia.org/wiki/Writing_systems
+496 | formal education | 6 | https://en.wikipedia.org/wiki/Formal_education
+497 | Bronze Age | 6 | https://en.wikipedia.org/wiki/Bronze_Age
+498 | 4th millennium BC | 6 | https://en.wikipedia.org/wiki/4th_millennium_BC
+499 | cuneiform script | 6 | https://en.wikipedia.org/wiki/Cuneiform_(script)
+500 | Egyptian hieroglyphs | 6 | https://en.wikipedia.org/wiki/Egyptian_hieroglyphs
+501 | 2600 BC | 6 | https://en.wikipedia.org/wiki/26th_century_BC
+502 | cultural diffusion | 6 | https://en.wikipedia.org/wiki/Cultural_diffusion
+503 | Chinese script | 6 | https://en.wikipedia.org/wiki/Chinese_script
+504 | pre-Columbian | 6 | https://en.wikipedia.org/wiki/Pre-Columbian
+505 | Mesoamerican writing systems | 6 | https://en.wikipedia.org/wiki/Mesoamerican_writing_systems
+506 | Olmec | 6 | https://en.wikipedia.org/wiki/Olmec
+507 | Maya scripts | 6 | https://en.wikipedia.org/wiki/Maya_script
+508 | Beowulf | 6 | https://en.wikipedia.org/wiki/Beowulf
+509 | Old English | 6 | https://en.wikipedia.org/wiki/Old_English
+510 | phonological system | 6 | https://en.wikipedia.org/wiki/Phonological_change
+511 | Sound change | 6 | https://en.wikipedia.org/wiki/Sound_change
+512 | phonetic feature | 6 | https://en.wikipedia.org/wiki/Distinctive_feature
+513 | chain shift | 6 | https://en.wikipedia.org/wiki/Chain_shift
+514 | Germanic languages | 6 | https://en.wikipedia.org/wiki/Germanic_languages
+515 | Grimm's law | 6 | https://en.wikipedia.org/wiki/Grimm%27s_law
+516 | Italic languages | 6 | https://en.wikipedia.org/wiki/Italic_languages
+517 | Great Vowel Shift | 6 | https://en.wikipedia.org/wiki/Great_Vowel_Shift
+518 | idioms | 6 | https://en.wikipedia.org/wiki/Idiom
+519 | grammaticalized | 6 | https://en.wikipedia.org/wiki/Grammaticalized
+520 | Caribbean Spanish | 6 | https://en.wikipedia.org/wiki/Caribbean_Spanish
+521 | Standard Spanish | 6 | https://en.wikipedia.org/wiki/Standard_Spanish
+522 | drift | 6 | https://en.wikipedia.org/wiki/Drift_(linguistics)
+523 | ideologies | 6 | https://en.wikipedia.org/wiki/Language_ideology
+524 | diffusion | 6 | https://en.wikipedia.org/wiki/Trans-cultural_diffusion
+525 | Multilingualism | 6 | https://en.wikipedia.org/wiki/Multilingualism
+526 | human history | 6 | https://en.wikipedia.org/wiki/Human_history
+527 | ethno-national state | 6 | https://en.wikipedia.org/wiki/Nation_state
+528 | language areas | 6 | https://en.wikipedia.org/wiki/Sprachbund
+529 | Balkan language area | 6 | https://en.wikipedia.org/wiki/Balkan_language_area
+530 | Mesoamerican language area | 6 | https://en.wikipedia.org/wiki/Mesoamerican_language_area
+531 | Ethiopian language area | 6 | https://en.wikipedia.org/wiki/Ethiopian_language_area
+532 | South Asia | 6 | https://en.wikipedia.org/wiki/South_Asia
+533 | areal features | 6 | https://en.wikipedia.org/wiki/Areal_feature_(linguistics)
+534 | language convergence | 6 | https://en.wikipedia.org/wiki/Language_convergence
+535 | borrowing | 6 | https://en.wikipedia.org/wiki/Loanword
+536 | relexification | 6 | https://en.wikipedia.org/wiki/Relexification
+537 | mixed languages | 6 | https://en.wikipedia.org/wiki/Mixed_language
+538 | pidgins | 6 | https://en.wikipedia.org/wiki/Pidgins
+539 | creole language | 6 | https://en.wikipedia.org/wiki/Creole_language
+540 | Tok Pisin | 6 | https://en.wikipedia.org/wiki/Tok_Pisin
+541 | Papua New-Guinea | 6 | https://en.wikipedia.org/wiki/Papua_New-Guinea
+542 | Austronesian languages | 6 | https://en.wikipedia.org/wiki/Austronesian_languages
+543 | Kreyòl ayisyen | 6 | https://en.wikipedia.org/wiki/Haitian_Creole
+544 | Haiti | 6 | https://en.wikipedia.org/wiki/Haiti
+545 | Michif | 6 | https://en.wikipedia.org/wiki/Michif_language
+546 | Cree | 6 | https://en.wikipedia.org/wiki/Cree_language
+547 | Spanish | 6 | https://en.wikipedia.org/wiki/Spanish_language
+548 | Portuguese | 6 | https://en.wikipedia.org/wiki/Portuguese_language
+549 | Bengali | 6 | https://en.wikipedia.org/wiki/Bengali_language
+550 | Javanese | 6 | https://en.wikipedia.org/wiki/Javanese_language
+551 | SIL Ethnologue | 6 | https://en.wikipedia.org/wiki/SIL_Ethnologue
+552 | dialects | 6 | https://en.wikipedia.org/wiki/Dialects
+553 | mutual intelligibility | 6 | https://en.wikipedia.org/wiki/Mutual_intelligibility
+554 | Danish language | 6 | https://en.wikipedia.org/wiki/Danish_language
+555 | Jutish | 6 | https://en.wikipedia.org/wiki/Jutlandic_dialect
+556 | mayor | 6 | https://en.wikipedia.org/wiki/Mayor
+557 | Novi Sad | 6 | https://en.wikipedia.org/wiki/Novi_Sad
+558 | Serbian | 6 | https://en.wikipedia.org/wiki/Serbian_language
+559 | Hungarian | 6 | https://en.wikipedia.org/wiki/Hungarian_language
+560 | Slovak | 6 | https://en.wikipedia.org/wiki/Slovak_language
+561 | Pannonian Rusyn | 6 | https://en.wikipedia.org/wiki/Pannonian_Rusyn_language
+562 | clear distinction | 6 | https://en.wikipedia.org/wiki/Language_or_dialect
+563 | aphorism | 6 | https://en.wikipedia.org/wiki/Aphorism
+564 | Max Weinreich | 6 | https://en.wikipedia.org/wiki/Max_Weinreich
+565 | a language is a dialect with an army and navy | 6 | https://en.wikipedia.org/wiki/A_language_is_a_dialect_with_an_army_and_navy
+566 | Cantonese | 6 | https://en.wikipedia.org/wiki/Cantonese
+567 | Swedish | 6 | https://en.wikipedia.org/wiki/Swedish_language
+568 | Norwegian | 6 | https://en.wikipedia.org/wiki/Norwegian_language
+569 | Yugoslav civil war | 6 | https://en.wikipedia.org/wiki/Yugoslav_civil_war
+570 | Serbo-Croatian | 6 | https://en.wikipedia.org/wiki/Serbo-Croatian_language
+571 | Croatian | 6 | https://en.wikipedia.org/wiki/Croatian_language
+572 | language isolates | 6 | https://en.wikipedia.org/wiki/Language_isolate
+573 | Zuni | 6 | https://en.wikipedia.org/wiki/Zuni_language
+574 | New Mexico | 6 | https://en.wikipedia.org/wiki/New_Mexico
+575 | Purépecha | 6 | https://en.wikipedia.org/wiki/Pur%C3%A9pecha_language
+576 | Ainu | 6 | https://en.wikipedia.org/wiki/Ainu_language
+577 | Burushaski | 6 | https://en.wikipedia.org/wiki/Burushaski_language
+578 | Pakistan | 6 | https://en.wikipedia.org/wiki/Pakistan
+579 | Hindustani | 6 | https://en.wikipedia.org/wiki/Hindustani_language
+580 | Urdu | 6 | https://en.wikipedia.org/wiki/Urdu
+581 | Eurasian | 6 | https://en.wikipedia.org/wiki/Eurasia
+582 | Migration Period | 6 | https://en.wikipedia.org/wiki/Migration_Period
+583 | European colonial expansion | 6 | https://en.wikipedia.org/wiki/History_of_colonialism
+584 | Americas | 6 | https://en.wikipedia.org/wiki/Americas
+585 | Niger-Congo language family | 6 | https://en.wikipedia.org/wiki/Niger%E2%80%93Congo_languages
+586 | Shona | 6 | https://en.wikipedia.org/wiki/Shona_language
+587 | Yoruba | 6 | https://en.wikipedia.org/wiki/Yoruba_language
+588 | Afroasiatic languages | 6 | https://en.wikipedia.org/wiki/Afroasiatic_languages
+589 | Semitic languages | 6 | https://en.wikipedia.org/wiki/Semitic_languages
+590 | Sahara | 6 | https://en.wikipedia.org/wiki/Sahara
+591 | Berber languages | 6 | https://en.wikipedia.org/wiki/Berber_languages
+592 | Hausa | 6 | https://en.wikipedia.org/wiki/Hausa_language
+593 | Madagascar | 6 | https://en.wikipedia.org/wiki/Madagascar
+594 | maritime Southeast Asia | 6 | https://en.wikipedia.org/wiki/Maritime_Southeast_Asia
+595 | Oceania | 6 | https://en.wikipedia.org/wiki/Oceania
+596 | Malagasy | 6 | https://en.wikipedia.org/wiki/Malagasy_language
+597 | M?ori | 6 | https://en.wikipedia.org/wiki/Maori_language
+598 | Samoan | 6 | https://en.wikipedia.org/wiki/Samoan_language
+599 | Indonesia | 6 | https://en.wikipedia.org/wiki/Indonesia
+600 | Taiwan | 6 | https://en.wikipedia.org/wiki/Formosan_languages
+601 | Dravidian languages | 6 | https://en.wikipedia.org/wiki/Dravidian_languages
+602 | Kannada | 6 | https://en.wikipedia.org/wiki/Kannada
+603 | Turkic languages | 6 | https://en.wikipedia.org/wiki/Turkic_languages
+604 | Austroasiatic | 6 | https://en.wikipedia.org/wiki/Austroasiatic_languages
+605 | Khmer | 6 | https://en.wikipedia.org/wiki/Khmer_language
+606 | Tai–Kadai languages | 6 | https://en.wikipedia.org/wiki/Tai%E2%80%93Kadai_languages
+607 | Southeast Asia | 6 | https://en.wikipedia.org/wiki/Southeast_Asia
+608 | Papua New Guinea | 6 | https://en.wikipedia.org/wiki/Papua_New_Guinea
+609 | West Africa | 6 | https://en.wikipedia.org/wiki/West_Africa
+610 | Quechumaran | 6 | https://en.wikipedia.org/wiki/Quechumaran_languages
+611 | Arawak | 6 | https://en.wikipedia.org/wiki/Arawak_languages
+612 | Tupi-Guarani | 6 | https://en.wikipedia.org/wiki/Tupi-Guarani_languages
+613 | Uto-Aztecan | 6 | https://en.wikipedia.org/wiki/Uto-Aztecan_languages
+614 | Oto-Manguean | 6 | https://en.wikipedia.org/wiki/Oto-Manguean_languages
+615 | Mayan | 6 | https://en.wikipedia.org/wiki/Mayan_languages
+616 | Mesoamerica | 6 | https://en.wikipedia.org/wiki/Mesoamerica
+617 | Na-Dene | 6 | https://en.wikipedia.org/wiki/Na-Dene_languages
+618 | Iroquoian | 6 | https://en.wikipedia.org/wiki/Iroquoian_languages
+619 | Algonquian | 6 | https://en.wikipedia.org/wiki/Algonquian_languages
+620 | North America | 6 | https://en.wikipedia.org/wiki/North_America
+621 | Pama-Nyungan family | 6 | https://en.wikipedia.org/wiki/Pama-Nyungan_languages
+622 | shift | 6 | https://en.wikipedia.org/wiki/Language_shift
+623 | Language loss | 6 | https://en.wikipedia.org/wiki/Language_loss
+624 | dead language | 6 | https://en.wikipedia.org/wiki/Dead_language
+625 | extinct language | 6 | https://en.wikipedia.org/wiki/Extinct_language
+626 | globalization | 6 | https://en.wikipedia.org/wiki/Globalization
+627 | neo-colonialism | 6 | https://en.wikipedia.org/wiki/Neo-colonialism
+628 | top 20 languages | 6 | https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers
+629 | semi-speakers | 6 | https://en.wikipedia.org/wiki/Speaker_types
+630 | lingua franca | 6 | https://en.wikipedia.org/wiki/Lingua_franca
+631 | Esperanto | 6 | https://en.wikipedia.org/wiki/Esperanto
+632 | Old Testament | 6 | https://en.wikipedia.org/wiki/Old_Testament
+633 | Yugoslav | 6 | https://en.wikipedia.org/wiki/Yugoslav_Wars
+634 | American Civil War | 6 | https://en.wikipedia.org/wiki/American_Civil_War
+635 | Rwanda | 6 | https://en.wikipedia.org/wiki/Rwanda
+636 | revitalizing | 6 | https://en.wikipedia.org/wiki/Language_revitalization
+637 | specific legislation | 6 | https://en.wikipedia.org/wiki/Language_policy
+638 | Human communication | 6 | https://en.wikipedia.org/wiki/Human_communication
+639 | International auxiliary language | 6 | https://en.wikipedia.org/wiki/International_auxiliary_language
+640 | List of language regulators | 6 | https://en.wikipedia.org/wiki/List_of_language_regulators
+641 | List of official languages | 6 | https://en.wikipedia.org/wiki/List_of_official_languages
+642 | Outline of linguistics | 6 | https://en.wikipedia.org/wiki/Outline_of_linguistics
+643 | Problem of religious language | 6 | https://en.wikipedia.org/wiki/Problem_of_religious_language
+644 | Psycholinguistics | 6 | https://en.wikipedia.org/wiki/Psycholinguistics
+645 | Speech-language pathology | 6 | https://en.wikipedia.org/wiki/Speech-language_pathology
+646 | Father Tongue hypothesis | 6 | https://en.wikipedia.org/wiki/Father_Tongue_hypothesis
+647 | Koko | 6 | https://en.wikipedia.org/wiki/Koko_(gorilla)
+648 | conditioning | 6 | https://en.wikipedia.org/wiki/Operant_conditioning
+649 | doi | 6 | https://en.wikipedia.org/wiki/Digital_object_identifier
+650 | PMID | 6 | https://en.wikipedia.org/wiki/PubMed_Identifier
+651 | Scientific American | 6 | https://en.wikipedia.org/wiki/Scientific_American
+652 | Science | 6 | https://en.wikipedia.org/wiki/Science
+653 | ISBN | 6 | https://en.wikipedia.org/wiki/International_Standard_Book_Number
+654 | Aikhenvald, Alexandra | 6 | https://en.wikipedia.org/wiki/Alexandra_Aikhenvald
+655 | R. M. W. Dixon | 6 | https://en.wikipedia.org/wiki/R._M._W._Dixon
+656 | Aitchison, Jean | 6 | https://en.wikipedia.org/wiki/Jean_Aitchison
+657 | Aronoff, Mark | 6 | https://en.wikipedia.org/wiki/Mark_Aronoff
+658 | Baker, Mark C. | 6 | https://en.wikipedia.org/wiki/Mark_Baker_(linguist)
+659 | Bloomfield, Leonard | 6 | https://en.wikipedia.org/wiki/Leonard_Bloomfield
+660 | Campbell, Lyle | 6 | https://en.wikipedia.org/wiki/Lyle_Campbell
+661 | Syntactic Structures | 6 | https://en.wikipedia.org/wiki/Syntactic_Structures
+662 | Comrie, Bernard | 6 | https://en.wikipedia.org/wiki/Bernard_Comrie
+663 | Croft, William | 6 | https://en.wikipedia.org/wiki/William_Croft_(linguist)
+664 | Crystal, David | 6 | https://en.wikipedia.org/wiki/David_Crystal
+665 | Deacon, Terrence | 6 | https://en.wikipedia.org/wiki/Terrence_Deacon
+666 | The Symbolic Species | 6 | https://en.wikipedia.org/wiki/The_Symbolic_Species
+667 | Evans, Nicholas | 6 | https://en.wikipedia.org/wiki/Nicholas_Evans_(linguist)
+668 | Levinson, Stephen C. | 6 | https://en.wikipedia.org/wiki/Stephen_C._Levinson
+669 | Fitch, W. Tecumseh | 6 | https://en.wikipedia.org/wiki/W._Tecumseh_Fitch
+670 | Foley, William A. | 6 | https://en.wikipedia.org/wiki/William_A._Foley
+671 | Goldsmith, John A | 6 | https://en.wikipedia.org/wiki/John_Goldsmith_(linguist)
+672 | Greenberg, Joseph | 6 | https://en.wikipedia.org/wiki/Joseph_Greenberg
+673 | Haspelmath, Martin | 6 | https://en.wikipedia.org/wiki/Martin_Haspelmath
+674 | Haugen, Einar | 6 | https://en.wikipedia.org/wiki/Einar_Haugen
+675 | Hauser, Marc D. | 6 | https://en.wikipedia.org/wiki/Marc_Hauser
+676 | International Phonetic Association | 6 | https://en.wikipedia.org/wiki/International_Phonetic_Association
+677 | Cambridge University Press | 6 | https://en.wikipedia.org/wiki/Cambridge_University_Press
+678 | Labov, William | 6 | https://en.wikipedia.org/wiki/William_Labov
+679 | Ladefoged, Peter | 6 | https://en.wikipedia.org/wiki/Peter_Ladefoged
+680 | Lyons, John | 6 | https://en.wikipedia.org/wiki/John_Lyons_(linguist)
+681 | Berlin | 6 | https://en.wikipedia.org/wiki/Berlin
+682 | Newmeyer, Frederick J. | 6 | https://en.wikipedia.org/wiki/Frederick_Newmeyer
+683 | Nichols, Johanna | 6 | https://en.wikipedia.org/wiki/Johanna_Nichols
+684 | Linguistic diversity in space and time | 6 | https://en.wikipedia.org/wiki/Linguistic_diversity_in_space_and_time
+685 | The Language Instinct: How the Mind Creates Language | 6 | https://en.wikipedia.org/wiki/The_Language_Instinct
+686 | Course in General Linguistics | 6 | https://en.wikipedia.org/wiki/Course_in_General_Linguistics
+687 | Swadesh, Morris | 6 | https://en.wikipedia.org/wiki/Morris_Swadesh
+688 | JSTOR | 6 | https://en.wikipedia.org/wiki/JSTOR
+689 | Thomason, Sarah G. | 6 | https://en.wikipedia.org/wiki/Sarah_Thomason
+690 | Kaufman, Terrence | 6 | https://en.wikipedia.org/wiki/Terrence_Kaufman
+691 | Trask, Robert Lawrence | 6 | https://en.wikipedia.org/wiki/Larry_Trask
+692 | Van Valin, jr, Robert D. | 6 | https://en.wikipedia.org/wiki/Robert_Van_Valin,_Jr.
+693 | critical period | 5 | https://en.wikipedia.org/wiki/Critical_period_hypothesis
+694 | critical periods | 6 | https://en.wikipedia.org/wiki/Critical_period
+695 | visual development | 6 | https://en.wikipedia.org/wiki/Visual_system
+696 | second-language acquisition | 6 | https://en.wikipedia.org/wiki/Second-language_acquisition
+697 | accent | 6 | https://en.wikipedia.org/wiki/Accent_(dialect)
+698 | multiple factors | 6 | https://en.wikipedia.org/wiki/Individual_variation_in_second-language_acquisition
+699 | Wilder Penfield | 6 | https://en.wikipedia.org/wiki/Wilder_Penfield
+700 | Eric Lenneberg | 6 | https://en.wikipedia.org/wiki/Eric_Lenneberg
+701 | neuroplasticity | 6 | https://en.wikipedia.org/wiki/Neuroplasticity
+702 | stereopsis | 6 | https://en.wikipedia.org/wiki/Stereopsis
+703 | Susan R. Barry | 6 | https://en.wikipedia.org/wiki/Susan_R._Barry
+704 | achieved stereopsis | 6 | https://en.wikipedia.org/wiki/Stereopsis_recovery
+705 | prefrontal cortex | 6 | https://en.wikipedia.org/wiki/Prefrontal_cortex
+706 | cognitive control | 6 | https://en.wikipedia.org/wiki/Cognitive_control
+707 | second language | 6 | https://en.wikipedia.org/wiki/Second_language
+708 | David Singleton | 6 | https://en.wikipedia.org/wiki/David_Singleton
+709 | pronunciation | 6 | https://en.wikipedia.org/wiki/Pronunciation
+710 | procedural memory | 6 | https://en.wikipedia.org/wiki/Procedural_memory
+711 | feral children | 6 | https://en.wikipedia.org/wiki/Feral_child
+712 | 'Genie' | 6 | https://en.wikipedia.org/wiki/Genie_(feral_child)
+713 | child abuse | 6 | https://en.wikipedia.org/wiki/Child_abuse
+714 | Skinner | 6 | https://en.wikipedia.org/wiki/B._F._Skinner
+715 | O. Hobart Mowrer | 6 | https://en.wikipedia.org/wiki/O._Hobart_Mowrer
+716 | positive reinforcement | 6 | https://en.wikipedia.org/wiki/Positive_reinforcement
+717 | universal grammar | 6 | https://en.wikipedia.org/wiki/Universal_grammar
+718 | language acquisition device | 6 | https://en.wikipedia.org/wiki/Language_acquisition_device
+719 | Stanislas Dehaene | 6 | https://en.wikipedia.org/wiki/Stanislas_Dehaene
+720 | orthography | 6 | https://en.wikipedia.org/wiki/Orthography
+721 | Piaget | 6 | https://en.wikipedia.org/wiki/Jean_Piaget
+722 | Krashen | 6 | https://en.wikipedia.org/wiki/Stephen_Krashen
+723 | applied linguistics | 6 | https://en.wikipedia.org/wiki/Applied_linguistics
+724 | Italian | 6 | https://en.wikipedia.org/wiki/Italian_language
+725 | Catalan | 6 | https://en.wikipedia.org/wiki/Catalan_language
+726 | vous | 6 | https://en.wikipedia.org/wiki/T-V_distinction
+727 | German | 6 | https://en.wikipedia.org/wiki/Germans
+728 | polygenic inheritance | 6 | https://en.wikipedia.org/wiki/Polygenic_inheritance
+729 | Paul Bloom | 6 | https://en.wikipedia.org/wiki/Paul_Bloom_(psychologist)
+730 | genetic drift | 6 | https://en.wikipedia.org/wiki/Genetic_drift
+731 | evolutionarily stable strategy | 6 | https://en.wikipedia.org/wiki/Evolutionarily_stable_strategy
+732 | Child development | 6 | https://en.wikipedia.org/wiki/Child_development
+733 | Child-directed speech | 6 | https://en.wikipedia.org/wiki/Child-directed_speech
+734 | Language deprivation experiments | 6 | https://en.wikipedia.org/wiki/Language_deprivation_experiments
+735 | Multi-competence | 6 | https://en.wikipedia.org/wiki/Multi-competence
+736 | ISSN | 6 | https://en.wikipedia.org/wiki/International_Standard_Serial_Number
+737 | Barry, Susan R. | 6 | https://en.wikipedia.org/wiki/Susan_Barry
+738 | American Optometric Association | 6 | https://en.wikipedia.org/wiki/American_Optometric_Association
+739 | Sacks, Oliver | 6 | https://en.wikipedia.org/wiki/Oliver_Sacks
+740 | PMC | 6 | https://en.wikipedia.org/wiki/PubMed_Central
+741 | Young-Scholten, M. | 6 | https://en.wikipedia.org/wiki/Martha_Young-Scholten
+742 | bilingual | 5 | https://en.wikipedia.org/wiki/Simultaneous_bilingualism
+743 | language development | 6 | https://en.wikipedia.org/wiki/Language_development
+744 | sequential bilingualism | 6 | https://en.wikipedia.org/wiki/Sequential_bilingualism
+745 | foreign language | 6 | https://en.wikipedia.org/wiki/Foreign_language
+746 | South America | 6 | https://en.wikipedia.org/wiki/South_America
+747 | Asia | 6 | https://en.wikipedia.org/wiki/Asia
+748 | monolingual | 6 | https://en.wikipedia.org/wiki/Monolingual
+749 | proficiency | 6 | https://en.wikipedia.org/wiki/Language_proficiency
+750 | intelligence | 6 | https://en.wikipedia.org/wiki/Intelligence
+751 | methodological | 6 | https://en.wikipedia.org/wiki/Methodological
+752 | socioeconomic | 6 | https://en.wikipedia.org/wiki/Socioeconomic
+753 | upper class | 6 | https://en.wikipedia.org/wiki/Upper_class
+754 | immigrant | 6 | https://en.wikipedia.org/wiki/Immigrant
+755 | cognitive flexibility | 6 | https://en.wikipedia.org/wiki/Cognitive_flexibility
+756 | analytical skill | 6 | https://en.wikipedia.org/wiki/Analytical_skill
+757 | metalinguistic awareness | 6 | https://en.wikipedia.org/wiki/Metalinguistic_awareness
+758 | comprehensible input | 6 | https://en.wikipedia.org/wiki/Comprehensible_input
+759 | environment | 6 | https://en.wikipedia.org/wiki/Social_environment
+760 | Finnish | 6 | https://en.wikipedia.org/wiki/Finnish_language
+761 | language attrition | 6 | https://en.wikipedia.org/wiki/Language_attrition
+762 | agreement morphemes | 6 | https://en.wikipedia.org/wiki/Polypersonal_agreement
+763 | phonemes | 6 | https://en.wikipedia.org/wiki/Phoneme
+764 | phonological rules | 6 | https://en.wikipedia.org/wiki/Phonological_rule
+765 | monolinguistic | 6 | https://en.wikipedia.org/wiki/Monolingualism
+766 | language mixing | 6 | https://en.wikipedia.org/wiki/Code-mixing
+767 | developmental processes | 6 | https://en.wikipedia.org/wiki/Developmental_process
+768 | language transfer | 6 | https://en.wikipedia.org/wiki/Language_transfer
+769 | competence | 6 | https://en.wikipedia.org/wiki/Linguistic_competence
+770 | Code-switching | 6 | https://en.wikipedia.org/wiki/Code-switching
+771 | trilingualism | 6 | https://en.wikipedia.org/wiki/Trilingualism
+772 | Meisel, Jürgen M. | 6 | https://en.wikipedia.org/wiki/Jurgen_M._Meisel
+773 | multilingual | 5 | https://en.wikipedia.org/wiki/Multilingual
+774 | Polyglotism | 6 | https://en.wikipedia.org/wiki/Polyglotism
+775 | Swiss | 6 | https://en.wikipedia.org/wiki/Switzerland
+776 | Federal administration | 6 | https://en.wikipedia.org/wiki/Federal_administration_of_Switzerland
+777 | four national languages of Switzerland | 6 | https://en.wikipedia.org/wiki/Languages_of_Switzerland
+778 | German | 6 | https://en.wikipedia.org/wiki/German_language
+779 | Romansh | 6 | https://en.wikipedia.org/wiki/Romansh_language
+780 | Europeans | 6 | https://en.wikipedia.org/wiki/Europeans
+781 | monoscriptual | 6 | https://en.wikipedia.org/wiki/Multiscriptualism
+782 | minority language | 6 | https://en.wikipedia.org/wiki/Minority_language
+783 | internationalization and localization | 6 | https://en.wikipedia.org/wiki/Internationalization_and_localization
+784 | English in computing | 6 | https://en.wikipedia.org/wiki/English_in_computing
+785 | Non-English-based programming languages | 6 | https://en.wikipedia.org/wiki/Non-English-based_programming_languages
+786 | Vivian Cook | 6 | https://en.wikipedia.org/wiki/Vivian_Cook_(academic)
+787 | Scots | 6 | https://en.wikipedia.org/wiki/Scots_language
+788 | standard language | 6 | https://en.wikipedia.org/wiki/Standard_language
+789 | Eastern Herzegovinian dialect | 6 | https://en.wikipedia.org/wiki/Eastern_Herzegovinian_dialect
+790 | umbrella | 6 | https://en.wikipedia.org/wiki/Dachsprache
+791 | South Slavic | 6 | https://en.wikipedia.org/wiki/South_Slavic_languages
+792 | Yugoslavia | 6 | https://en.wikipedia.org/wiki/Yugoslavia
+793 | Bosnian | 6 | https://en.wikipedia.org/wiki/Bosnian_language
+794 | Montenegrin | 6 | https://en.wikipedia.org/wiki/Montenegrin_language
+795 | Ukrainian | 6 | https://en.wikipedia.org/wiki/Ukrainian_language
+796 | tsars | 6 | https://en.wikipedia.org/wiki/Tsar
+797 | immigrant | 6 | https://en.wikipedia.org/wiki/Immigration
+798 | ethnic Bengali | 6 | https://en.wikipedia.org/wiki/Bengali_people
+799 | East Bengal | 6 | https://en.wikipedia.org/wiki/Bangladesh
+800 | Assamese | 6 | https://en.wikipedia.org/wiki/Assamese_language
+801 | immersion | 6 | https://en.wikipedia.org/wiki/Language_immersion
+802 | eponyms | 6 | https://en.wikipedia.org/wiki/Eponym
+803 | empathy | 6 | https://en.wikipedia.org/wiki/Empathy
+804 | open-mindedness | 6 | https://en.wikipedia.org/wiki/Open-mindedness
+805 | linguistic relativity | 6 | https://en.wikipedia.org/wiki/Linguistic_relativity
+806 | François Grosjean | 6 | https://en.wikipedia.org/wiki/Fran%C3%A7ois_Grosjean
+807 | Sapir-Whorf | 6 | https://en.wikipedia.org/wiki/Sapir-Whorf
+808 | connotations | 6 | https://en.wikipedia.org/wiki/Connotation
+809 | puberty | 6 | https://en.wikipedia.org/wiki/Puberty
+810 | cognitive process | 6 | https://en.wikipedia.org/wiki/Cognition
+811 | Rod Ellis | 6 | https://en.wikipedia.org/wiki/Rod_Ellis
+812 | European Union | 6 | https://en.wikipedia.org/wiki/European_Union
+813 | Logic | 6 | https://en.wikipedia.org/wiki/Logic
+814 | Rhetoric | 6 | https://en.wikipedia.org/wiki/Rhetoric
+815 | framing effect | 6 | https://en.wikipedia.org/wiki/Framing_effect_(psychology)
+816 | trolley problem | 6 | https://en.wikipedia.org/wiki/Trolley_problem
+817 | Brussels | 6 | https://en.wikipedia.org/wiki/Brussels
+818 | Belgium | 6 | https://en.wikipedia.org/wiki/Belgium
+819 | Dutch | 6 | https://en.wikipedia.org/wiki/Dutch_language
+820 | multilingual sign | 6 | https://en.wikipedia.org/wiki/Multilingual_sign
+821 | Hong Kong-Macau Ferry Pier | 6 | https://en.wikipedia.org/wiki/Hong_Kong-Macau_Ferry_Pier,_Macau
+822 | Macau | 6 | https://en.wikipedia.org/wiki/Macau
+823 | official languages | 6 | https://en.wikipedia.org/wiki/Official_language
+824 | tourists | 6 | https://en.wikipedia.org/wiki/Tourist
+825 | Kannada | 6 | https://en.wikipedia.org/wiki/Kannada_language
+826 | Bangalore | 6 | https://en.wikipedia.org/wiki/Bangalore
+827 | Chennai | 6 | https://en.wikipedia.org/wiki/Chennai
+828 | Vancouver International Airport | 6 | https://en.wikipedia.org/wiki/Vancouver_International_Airport
+829 | SM Mall of Asia | 6 | https://en.wikipedia.org/wiki/SM_Mall_of_Asia
+830 | Pasay City | 6 | https://en.wikipedia.org/wiki/Pasay_City
+831 | Philippines | 6 | https://en.wikipedia.org/wiki/Philippines
+832 | English | 6 | https://en.wikipedia.org/wiki/English_language_in_the_Philippines
+833 | Filipinos | 6 | https://en.wikipedia.org/wiki/Filipino_people
+834 | growing number of Koreans | 6 | https://en.wikipedia.org/wiki/Koreans_in_the_Philippines
+835 | foreigners | 6 | https://en.wikipedia.org/wiki/Demographics_of_the_Philippines
+836 | UAE | 6 | https://en.wikipedia.org/wiki/UAE
+837 | Sub-Saharan Africa | 6 | https://en.wikipedia.org/wiki/Sub-Saharan_Africa
+838 | Diglossia | 6 | https://en.wikipedia.org/wiki/Diglossia
+839 | Europe | 6 | https://en.wikipedia.org/wiki/Europe
+840 | regional language | 6 | https://en.wikipedia.org/wiki/Regional_language
+841 | Frisia | 6 | https://en.wikipedia.org/wiki/Frisia
+842 | Frisian | 6 | https://en.wikipedia.org/wiki/Frisian_languages
+843 | Lusatia | 6 | https://en.wikipedia.org/wiki/Lusatia
+844 | Sorbian | 6 | https://en.wikipedia.org/wiki/Sorbian_languages
+845 | Modern Standard Arabic | 6 | https://en.wikipedia.org/wiki/Modern_Standard_Arabic
+846 | Luxembourg | 6 | https://en.wikipedia.org/wiki/Luxembourg
+847 | Malaysia | 6 | https://en.wikipedia.org/wiki/Malaysia
+848 | Singapore | 6 | https://en.wikipedia.org/wiki/Singapore
+849 | Malays | 6 | https://en.wikipedia.org/wiki/Ethnic_Malays
+850 | China | 6 | https://en.wikipedia.org/wiki/China
+851 | Martha's Vineyard | 6 | https://en.wikipedia.org/wiki/Martha%27s_Vineyard
+852 | MVSL | 6 | https://en.wikipedia.org/wiki/Martha%27s_Vineyard_Sign_Language
+853 | ABSL | 6 | https://en.wikipedia.org/wiki/Al-Sayyid_Bedouin_Sign_Language
+854 | Balkans | 6 | https://en.wikipedia.org/wiki/Balkans
+855 | Communication Accommodation Theory | 6 | https://en.wikipedia.org/wiki/Communication_Accommodation_Theory
+856 | calquing | 6 | https://en.wikipedia.org/wiki/Calque
+857 | blackmail | 6 | https://en.wikipedia.org/wiki/Blackmail
+858 | pidgin language | 6 | https://en.wikipedia.org/wiki/Pidgin_language
+859 | Papiamento | 6 | https://en.wikipedia.org/wiki/Papiamento
+860 | Curaçao | 6 | https://en.wikipedia.org/wiki/Cura%C3%A7ao
+861 | Singlish | 6 | https://en.wikipedia.org/wiki/Singlish
+862 | Helsinki slang | 6 | https://en.wikipedia.org/wiki/Helsinki_slang
+863 | Occitan language | 6 | https://en.wikipedia.org/wiki/Occitan_language
+864 | Yiddish | 6 | https://en.wikipedia.org/wiki/Yiddish_language
+865 | Middle High German | 6 | https://en.wikipedia.org/wiki/Middle_High_German
+866 | Hebrew | 6 | https://en.wikipedia.org/wiki/Hebrew
+867 | Scandinavia | 6 | https://en.wikipedia.org/wiki/Scandinavia
+868 | non-convergent discourse | 6 | https://en.wikipedia.org/wiki/Non-convergent_discourse
+869 | Dutch | 6 | https://en.wikipedia.org/wiki/Netherlands
+870 | Afrikaans | 6 | https://en.wikipedia.org/wiki/Afrikaans_language
+871 | Czechoslovakia | 6 | https://en.wikipedia.org/wiki/Czechoslovakia
+872 | Czech | 6 | https://en.wikipedia.org/wiki/Czech_language
+873 | software localization | 6 | https://en.wikipedia.org/wiki/Software_localization
+874 | office suites | 6 | https://en.wikipedia.org/wiki/Office_suite
+875 | web browsers | 6 | https://en.wikipedia.org/wiki/Web_browser
+876 | 2020 Tokyo Olympics | 6 | https://en.wikipedia.org/wiki/2020_Tokyo_Olympics
+877 | German | 6 | https://en.wikipedia.org/wiki/List_of_territorial_entities_where_German_is_an_official_language
+878 | French | 6 | https://en.wikipedia.org/wiki/List_of_territorial_entities_where_French_is_an_official_language
+879 | English | 6 | https://en.wikipedia.org/wiki/List_of_territorial_entities_where_English_is_an_official_language
+880 | diversity | 6 | https://en.wikipedia.org/wiki/Diversity_(business)
+881 | Troika | 6 | https://en.wikipedia.org/wiki/Troika_(album)
+882 | Joseph Brodsky | 6 | https://en.wikipedia.org/wiki/Joseph_Brodsky
+883 | Vladimir Nabokov | 6 | https://en.wikipedia.org/wiki/Vladimir_Nabokov
+884 | macaronic verse | 6 | https://en.wikipedia.org/wiki/Macaronic_language
+885 | Cultural diversity | 6 | https://en.wikipedia.org/wiki/Cultural_diversity
+886 | List of multilingual countries and regions | 6 | https://en.wikipedia.org/wiki/List_of_multilingual_countries_and_regions
+887 | List of multilingual bands and artists | 6 | https://en.wikipedia.org/wiki/List_of_multilingual_bands_and_artists
+888 | Plurilingualism | 6 | https://en.wikipedia.org/wiki/Plurilingualism
+889 | Translanguaging | 6 | https://en.wikipedia.org/wiki/Translanguaging
+890 | European Commissioner for Multilingualism | 6 | https://en.wikipedia.org/wiki/European_Commissioner_for_Multilingualism
+891 | European Day of Languages | 6 | https://en.wikipedia.org/wiki/European_Day_of_Languages
+892 | English-only movement | 6 | https://en.wikipedia.org/wiki/English-only_movement
+893 | Language legislation in Belgium | 6 | https://en.wikipedia.org/wiki/Language_legislation_in_Belgium
+894 | Languages of Finland | 6 | https://en.wikipedia.org/wiki/Languages_of_Finland
+895 | Languages of the European Union | 6 | https://en.wikipedia.org/wiki/Languages_of_the_European_Union
+896 | Multilingualism in Luxembourg | 6 | https://en.wikipedia.org/wiki/Multilingualism_in_Luxembourg
+897 | Official bilingualism in Canada | 6 | https://en.wikipedia.org/wiki/Official_bilingualism_in_Canada
+898 | International Journal of Bilingualism | 6 | https://en.wikipedia.org/wiki/International_Journal_of_Bilingualism
+899 | Language education | 6 | https://en.wikipedia.org/wiki/Language_education
+900 | Multilingual Education | 6 | https://en.wikipedia.org/wiki/Multilingual_Education
+901 | Bilingual name | 6 | https://en.wikipedia.org/wiki/Bilingual_name
+902 | Bilingual sign | 6 | https://en.wikipedia.org/wiki/Bilingual_sign
+903 | Childhood Bilingualism Research Centre | 6 | https://en.wikipedia.org/wiki/Childhood_Bilingualism_Research_Centre
+904 | Economics of language | 6 | https://en.wikipedia.org/wiki/Economics_of_language
+905 | Linguapax Prize | 6 | https://en.wikipedia.org/wiki/Linguapax_Prize
+906 | List of artworks known in English by a foreign title | 6 | https://en.wikipedia.org/wiki/List_of_artworks_known_in_English_by_a_foreign_title
+907 | Spanish language in the United States | 6 | https://en.wikipedia.org/wiki/Spanish_language_in_the_United_States
+908 | The Multilingual Library | 6 | https://en.wikipedia.org/wiki/The_Multilingual_Library
+909 | A.J. Aitken | 6 | https://en.wikipedia.org/wiki/A.J._Aitken
+910 | Ems Ukaz | 6 | https://en.wikipedia.org/wiki/Ems_Ukaz
+911 | Poplack Shana | 6 | https://en.wikipedia.org/wiki/Shana_Poplack
+912 | The Japan Times | 6 | https://en.wikipedia.org/wiki/The_Japan_Times
+913 | Language in Society | 6 | https://en.wikipedia.org/wiki/Language_in_Society
+914 | Wiley Online | 6 | https://en.wikipedia.org/wiki/John_Wiley_%26_Sons
+915 | Jared Diamond | 6 | https://en.wikipedia.org/wiki/Jared_Diamond
+916 | The World until Yesterday: What Can We Learn from Traditional Societies? | 6 | https://en.wikipedia.org/wiki/The_World_Until_Yesterday
+917 | Eastern Band of Cherokee Indians | 5 | https://en.wikipedia.org/wiki/Eastern_Band_of_Cherokee_Indians
+918 | Western North Carolina | 6 | https://en.wikipedia.org/wiki/Western_North_Carolina
+919 | Protestant | 6 | https://en.wikipedia.org/wiki/Protestant
+920 | Cherokee Nation | 6 | https://en.wikipedia.org/wiki/Cherokee_Nation
+921 | United Keetoowah Band of Cherokee Indians | 6 | https://en.wikipedia.org/wiki/United_Keetoowah_Band_of_Cherokee_Indians
+922 | federally recognized | 6 | https://en.wikipedia.org/wiki/Federally_recognized_tribe
+923 | Native American | 6 | https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States
+924 | Cherokee | 6 | https://en.wikipedia.org/wiki/Cherokee
+925 | Eastern United States | 6 | https://en.wikipedia.org/wiki/Eastern_United_States
+926 | Indian Removal Act | 6 | https://en.wikipedia.org/wiki/Indian_Removal_Act
+927 | the west | 6 | https://en.wikipedia.org/wiki/American_West
+928 | Oklahoma | 6 | https://en.wikipedia.org/wiki/Oklahoma
+929 | Cherokee, North Carolina | 6 | https://en.wikipedia.org/wiki/Cherokee,_North_Carolina
+930 | Great Smoky Mountains National Park | 6 | https://en.wikipedia.org/wiki/Great_Smoky_Mountains_National_Park
+931 | sculptor | 6 | https://en.wikipedia.org/wiki/Sculptor
+932 | ceramic artist | 6 | https://en.wikipedia.org/wiki/Ceramic_artist
+933 | Trail of Tears | 6 | https://en.wikipedia.org/wiki/Trail_of_Tears
+934 | Indian Territory | 6 | https://en.wikipedia.org/wiki/Indian_Territory
+935 | Principal Chief | 6 | https://en.wikipedia.org/wiki/Principal_Chiefs_of_the_Cherokee
+936 | Yonaguska | 6 | https://en.wikipedia.org/wiki/Yonaguska
+937 | William Holland Thomas | 6 | https://en.wikipedia.org/wiki/William_Holland_Thomas
+938 | tribal | 6 | https://en.wikipedia.org/wiki/Tribe
+939 | Tsali | 6 | https://en.wikipedia.org/wiki/Tsali
+940 | U.S. Army | 6 | https://en.wikipedia.org/wiki/U.S._Army
+941 | Mississippian Period | 6 | https://en.wikipedia.org/wiki/Mississippian_culture
+942 | stickball | 6 | https://en.wikipedia.org/wiki/Stickball
+943 | Cherokee society | 6 | https://en.wikipedia.org/wiki/Cherokee_society
+944 | Swain County | 6 | https://en.wikipedia.org/wiki/Swain_County,_North_Carolina
+945 | Jackson County | 6 | https://en.wikipedia.org/wiki/Jackson_County,_North_Carolina
+946 | Cherokee County | 6 | https://en.wikipedia.org/wiki/Cherokee_County,_North_Carolina
+947 | Graham County | 6 | https://en.wikipedia.org/wiki/Graham_County,_North_Carolina
+948 | Haywood County | 6 | https://en.wikipedia.org/wiki/Haywood_County,_North_Carolina
+949 | 2000 census | 6 | https://en.wikipedia.org/wiki/United_States_Census,_2000
+950 | Harrah's Cherokee Casino | 6 | https://en.wikipedia.org/wiki/Harrah%27s_Cherokee
+951 | Blowgun | 6 | https://en.wikipedia.org/wiki/Blowgun
+952 | Oconaluftee Indian Village | 6 | https://en.wikipedia.org/wiki/Oconaluftee_Indian_Village
+953 | Indian Gaming Regulatory Act | 6 | https://en.wikipedia.org/wiki/Indian_Gaming_Regulatory_Act
+954 | Harrah’s Cherokee | 6 | https://en.wikipedia.org/wiki/Harrah%E2%80%99s_Cherokee
+955 | Caesars Entertainment Corporation | 6 | https://en.wikipedia.org/wiki/Caesars_Entertainment_Corporation
+956 | David T. McCoy | 6 | https://en.wikipedia.org/wiki/David_T._McCoy
+957 | Asheville, North Carolina | 6 | https://en.wikipedia.org/wiki/Asheville,_North_Carolina
+958 | Walker Calhoun | 6 | https://en.wikipedia.org/wiki/Walker_Calhoun
+959 | Harrah's Cherokee Valley River | 6 | https://en.wikipedia.org/wiki/Harrah%27s_Cherokee_Valley_River
+960 | Murphy, North Carolina | 6 | https://en.wikipedia.org/wiki/Murphy,_North_Carolina
+961 | Marilou Awiakta | 6 | https://en.wikipedia.org/wiki/Marilou_Awiakta
+962 | Goingback Chiltoskey | 6 | https://en.wikipedia.org/wiki/Goingback_Chiltoskey
+963 | Amanda Crowe | 6 | https://en.wikipedia.org/wiki/Amanda_Crowe
+964 | Charles George | 6 | https://en.wikipedia.org/wiki/Charles_George
+965 | Junaluska | 6 | https://en.wikipedia.org/wiki/Junaluska
+966 | Nimrod Jarrett Smith | 6 | https://en.wikipedia.org/wiki/Nimrod_Jarrett_Smith
+967 | Lottie Queen Stamper | 6 | https://en.wikipedia.org/wiki/Lottie_Queen_Stamper
+968 | Sequoyah | 6 | https://en.wikipedia.org/wiki/Sequoyah
+969 | Stickball (Native American) | 6 | https://en.wikipedia.org/wiki/Stickball_(Native_American)
+970 | Cherokee Preservation Foundation | 6 | https://en.wikipedia.org/wiki/Cherokee_Preservation_Foundation
+971 | University of North Carolina at Chapel Hill | 6 | https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill
+972 | University of Nebraska Press | 6 | https://en.wikipedia.org/wiki/University_of_Nebraska_Press
+973 | American | 5 | https://en.wikipedia.org/wiki/United_States
+974 | Flag | 6 | https://en.wikipedia.org/wiki/Flag_of_the_United_States
+975 | Great Seal | 6 | https://en.wikipedia.org/wiki/Great_Seal_of_the_United_States
+976 | In God We Trust | 6 | https://en.wikipedia.org/wiki/In_God_We_Trust
+977 | E pluribus unum | 6 | https://en.wikipedia.org/wiki/E_pluribus_unum
+978 | Annuit cœptis | 6 | https://en.wikipedia.org/wiki/Annuit_c%C5%93ptis
+979 | He | 6 | https://en.wikipedia.org/wiki/God
+980 | Novus ordo seclorum | 6 | https://en.wikipedia.org/wiki/Novus_ordo_seclorum
+981 | The Star-Spangled Banner | 6 | https://en.wikipedia.org/wiki/The_Star-Spangled_Banner
+982 | The Stars and Stripes Forever | 6 | https://en.wikipedia.org/wiki/The_Stars_and_Stripes_Forever
+983 | contiguous United States | 6 | https://en.wikipedia.org/wiki/Contiguous_United_States
+984 | Alaska | 6 | https://en.wikipedia.org/wiki/Alaska
+985 | Hawaii | 6 | https://en.wikipedia.org/wiki/Hawaii
+986 | territories | 6 | https://en.wikipedia.org/wiki/Territories_of_the_United_States
+987 | Washington, D.C. | 6 | https://en.wikipedia.org/wiki/Washington,_D.C.
+988 | New York City | 6 | https://en.wikipedia.org/wiki/New_York_City
+989 | federal level | 6 | https://en.wikipedia.org/wiki/Federal_government_of_the_United_States
+990 | National language | 6 | https://en.wikipedia.org/wiki/National_language
+991 | Ethnic groups | 6 | https://en.wikipedia.org/wiki/Ethnic_groups
+992 | White | 6 | https://en.wikipedia.org/wiki/White_Americans
+993 | Black | 6 | https://en.wikipedia.org/wiki/African_Americans
+994 | Asian | 6 | https://en.wikipedia.org/wiki/Asian_Americans
+995 | Other/multiracial | 6 | https://en.wikipedia.org/wiki/Multiracial_Americans
+996 | Pacific Islander | 6 | https://en.wikipedia.org/wiki/Pacific_Islands_Americans
+997 | Hispanic or Latino | 6 | https://en.wikipedia.org/wiki/Hispanic_and_Latino_Americans
+998 | Christian | 6 | https://en.wikipedia.org/wiki/Christianity_in_the_United_States
+999 | Unaffiliated | 6 | https://en.wikipedia.org/wiki/Irreligion_in_the_United_States
+1000 | Jewish | 6 | https://en.wikipedia.org/wiki/American_Jews
