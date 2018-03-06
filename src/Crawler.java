@@ -22,6 +22,7 @@ public class Crawler {
   private HashSet<String> visited;
   private HashMap<String, HashSet<String>> inLinks;
   private int pagesCrawled;
+  FileUtility fu;
   PrintWriter output;
   PrintWriter docsDownload;
   Dictionary dict;
@@ -36,6 +37,7 @@ public class Crawler {
   /* Constructor accepting custom config for the crawler */
   public Crawler(CrawlConfig config) {
     this.config = config;
+    fu = new FileUtility();
     frontier = new LinkedList<String>();
     visited = new HashSet<String>();
     frontier.add(config.getSeedURL());
@@ -49,7 +51,7 @@ public class Crawler {
       // initialize output-writer handle
       output = new PrintWriter(config.getDepthFirstOutputPath());
       PrintWriter dfsGraph = new PrintWriter(config.getGraph2OutputPath());
-      println(output, "Count | Text | Depth | URL");
+      fu.println(output, "Count | Text | Depth | URL");
 
       // initialize inLinks
       inLinks = new HashMap<String, HashSet<String>>();
@@ -60,7 +62,7 @@ public class Crawler {
       String currentURL = frontier.poll();
 
       // print seed parameters to output
-      println(output, pageCount + " | Seed | " + depth + " | " + currentURL);
+      fu.println(output, pageCount + " | Seed | " + depth + " | " + currentURL);
 
       // kick-start breadth-first traversal from seed
       dfs(currentURL, depth, pageCount);
@@ -107,7 +109,7 @@ public class Crawler {
         continue;
 
       // write to output
-      println(output, (++pageCount) + " | " + text + " | " + depth + " | " + url);
+      fu.println(output, (++pageCount) + " | " + text + " | " + depth + " | " + url);
 
       // add inLink
       addInLink(thisURL, url);
@@ -146,7 +148,7 @@ public class Crawler {
         output = new PrintWriter(config.getFocusedCrawlOutputPath());
 
       // print header to output
-      println(output, "Count | Text | Depth | URL");
+      fu.println(output, "Count | Text | Depth | URL");
 
       // initialize traversal parameters to that of the seed
       int depth = 1;
@@ -155,7 +157,7 @@ public class Crawler {
       frontier.add(null); // delimiting levels with null 
 
       // print seed parameters to output
-      println(output, pageCount + " | Seed | " + depth + " | " + currentURL);
+      fu.println(output, pageCount + " | Seed | " + depth + " | " + currentURL);
 
       // kick-start breadth-first traversal from seed
       pageCount = bfs(currentURL, depth, pageCount, isFocused);
@@ -180,16 +182,16 @@ public class Crawler {
       String visitedDocID = getDocID(urlsVisited);
       if (inLinks.containsKey(visitedDocID)) {
         HashSet<String> inLinkDocIds = inLinks.get(visitedDocID);
-        print(graph, (++counter) + " | " + visitedDocID + " ");
+        fu.print(graph, (++counter) + " | " + visitedDocID + " ");
         System.out.print(counter + " | " + visitedDocID + " ");
         for (String eachDocID : inLinkDocIds) {
-          print(graph, eachDocID + " ");
+          fu.print(graph, eachDocID + " ");
           System.out.print(eachDocID + " ");
         }
-        println(graph, "");
+        fu.println(graph, "");
         System.out.println("");
       } else { // source
-        println(graph, (++counter) + " | " + visitedDocID + " ");
+        fu.println(graph, (++counter) + " | " + visitedDocID + " ");
         System.out.println(counter + " | " + visitedDocID + " ");
 
       }
@@ -233,7 +235,7 @@ public class Crawler {
       frontier.add(url);
 
       // write to output
-      println(output, (++pageCount) + " | " + text + " | " + depth + " | " + url);
+      fu.println(output, (++pageCount) + " | " + text + " | " + depth + " | " + url);
       //      System.out.println((pageCount) + " | " + text + " | " + depth + " | " + url);
 
       // add inLink
@@ -364,24 +366,6 @@ public class Crawler {
   }
 
 
-
-  /**
-   * Prints string to the given handle
-   * 
-   * @param output - output handle
-   * @param string - output string
-   */
-  private void println(PrintWriter output, String string) {
-    output.println(string);
-    output.flush();
-  }
-
-  private void print(PrintWriter output, String string) {
-    output.print(string);
-    output.flush();
-  }
-
-
   /**
    * Extract valid crawlable URLs from the given page
    * 
@@ -473,17 +457,17 @@ public class Crawler {
     LocalDate currentDate = LocalDate.now();
     String pageHtml = page.outerHtml();
 
-    println(docsDownload, "<DOC>");
-    println(docsDownload, "<DOCNO>WTX-" + currentTime + "</DOCNO>");
-    println(docsDownload, "<DOCHDR>");
-    println(docsDownload, url);
-    println(docsDownload, "Date: " + currentDate);
-    println(docsDownload, "Content-type: text/html");
-    println(docsDownload, "Content-length: " + String.valueOf(pageHtml.length()));
-    println(docsDownload, "Last-modified: " + currentDate);
-    println(docsDownload, "</DOCHDR>");
-    println(docsDownload, pageHtml);
-    println(docsDownload, "</DOC>");
+    fu.println(docsDownload, "<DOC>");
+    fu.println(docsDownload, "<DOCNO>WTX-" + currentTime + "</DOCNO>");
+    fu.println(docsDownload, "<DOCHDR>");
+    fu.println(docsDownload, url);
+    fu.println(docsDownload, "Date: " + currentDate);
+    fu.println(docsDownload, "Content-type: text/html");
+    fu.println(docsDownload, "Content-length: " + String.valueOf(pageHtml.length()));
+    fu.println(docsDownload, "Last-modified: " + currentDate);
+    fu.println(docsDownload, "</DOCHDR>");
+    fu.println(docsDownload, pageHtml);
+    fu.println(docsDownload, "</DOC>");
   }
 
 

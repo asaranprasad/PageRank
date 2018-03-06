@@ -46,6 +46,15 @@ public class Graph {
     return sinks;
   }
 
+  public Set<String> sources() {
+    HashSet<String> sources = new HashSet<String>();
+    for (String page : inLinksGraph.keySet()) {
+      if (inLinksGraph.get(page).isEmpty())
+        sources.add(page);
+    }
+    return sources;
+  }
+
   public int L(String q) {
     return outLinksGraph.get(q).size();
   }

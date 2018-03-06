@@ -1,4 +1,5 @@
 import java.io.File;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -43,4 +44,28 @@ public class FileUtility {
 
     return graph;
   }
+
+  /**
+   * Prints string to the given handle one line at a time
+   * 
+   * @param output - output handle
+   * @param string - output string
+   */
+  public void println(PrintWriter output, String string) {
+    output.println(string);
+    output.flush();
+  }
+
+
+  /**
+   * Prints string to the given handle one string at a time
+   * 
+   * @param output - output handle
+   * @param string - output string
+   */
+  public void print(PrintWriter output, String string) {
+    output.print(string);
+    output.flush();
+  }
+
 }
