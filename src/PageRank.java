@@ -1,6 +1,6 @@
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
+import java.util.TreeMap;
 
 public class PageRank {
 
@@ -18,8 +18,8 @@ public class PageRank {
   //M(p) is the set (without duplicates) of pages that link to page p
   //L(q) is the number of out-links (without duplicates) from page q
   //d is the PageRank damping/teleportation factor; use d = 0.85 as a fairly typical value
-  public HashMap<String, Double> calculatePageRank(Graph g) {
-    HashMap<String, Double> PR = new HashMap<String, Double>();
+  public TreeMap<String, Double> calculatePageRank(Graph g) {
+    TreeMap<String, Double> PR = new TreeMap<String, Double>();
     double N = (double) g.size();
 
     // initial value
@@ -35,7 +35,7 @@ public class PageRank {
         sinkPR += PR.get(p);
       }
 
-      HashMap<String, Double> newPR = new HashMap<String, Double>();
+      TreeMap<String, Double> newPR = new TreeMap<String, Double>();
 
       for (String p : g.P()) {
         // teleportation
@@ -60,12 +60,12 @@ public class PageRank {
     return PR;
   }
 
-  private void calculatePerplexity(HashMap<String, Double> PR) {
+  private void calculatePerplexity(TreeMap<String, Double> PR) {
     double p = Math.pow(2, H(PR));
     perplexity.add(p);
   }
 
-  private double H(HashMap<String, Double> PR) {
+  private double H(TreeMap<String, Double> PR) {
     double perplexity = 0;
     double log2 = Math.log(2);
     for (String page : PR.keySet()) {
@@ -76,7 +76,7 @@ public class PageRank {
     return perplexity;
   }
 
-  private boolean hasConverged(HashMap<String, Double> PR) {
+  private boolean hasConverged(TreeMap<String, Double> PR) {
     if (perplexity.size() < 4)
       return false;
 

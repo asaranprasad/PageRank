@@ -1,4 +1,11 @@
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.LinkedHashMap;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
 import java.util.Scanner;
+import java.util.TreeMap;
 
 public class CrawlCaller {
 
@@ -13,11 +20,10 @@ public class CrawlCaller {
 
         // print current config to user
         System.out.println("Current Config:");
-        config.printConfig();
         System.out.println(
-            "Enter a choice:\n 1 - DFS crawl\n 2 - BFS crawl with document backup");
+            "Enter a choice:\n 1 - DFS crawl\n 2 - BFS crawl");
         System.out.println(
-            " 3 - BFS crawl without document backup\n 4 - Focused crawl\n q - Quit");
+            " 3 - Calculate Page Rank\n q - Quit");
         System.out.println("To change Default config, enter y");
 
         option = scan.next();
@@ -32,33 +38,14 @@ public class CrawlCaller {
             break;
 
           case "2":
-          case "BFS crawl with document backup":
-            crawl.crawlBreadthFirst(false, true);
-            break;
-
-          case "3":
-          case "BFS crawl without document backup":
+          case "BFS crawl":
             crawl.crawlBreadthFirst(false, false);
             break;
 
-          case "4":
-          case "Focused crawl":
-            crawl.crawlBreadthFirst(true, false);
+          case "3":
+          case "Calculate Page Rank":
+            pageRankTests();
             break;
-
-          case "y":
-            System.out.println("Enter seed URL: ");
-            String newSeedURL = scan.next();
-            System.out.println("Enter maxDepth: ");
-            int newMaxDepth = scan.nextInt();
-            System.out.println("Enter pageCount: ");
-            int newPageCount = scan.nextInt();
-            System.out
-                .println("Enter Focused crawl keywords, comma separated: ");
-            String[] newFocusedCrawlKeywords = scan.next().split(",");
-            config = new CrawlConfig(newSeedURL, newMaxDepth, newPageCount,
-                newFocusedCrawlKeywords);
-            continue;
 
           case "q":
           case "Quit":
@@ -75,6 +62,46 @@ public class CrawlCaller {
       e.printStackTrace();
     }
 
+  }
+
+  private static void pageRankTests() {
+    CrawlConfig config = new CrawlConfig();
+    TreeMap<String, Double> pageRanks;
+    PageRank pr = new PageRank(0.85);
+
+    // 1. Test Graph
+    //    System.out.println("Test Graph");
+    //    Graph testGraph = new Graph(config.getOutputFolderPath() + "sampleGraph.txt");
+    //    pageRanks = pr.calculatePageRank(testGraph);
+    //    printMapSortByValues(pageRanks);
+
+    // 2. Graph 1 (BFS)
+    System.out.println("BFS Graph1");
+    Graph G1 = new Graph(config.getOutputFolderPath() + "G1.txt");
+    pageRanks = pr.calculatePageRank(G1);
+    printMapSortByValues(pageRanks);
+
+  }
+
+  private static void printMapSortByValues(TreeMap<String, Double> map) {
+    List<Map.Entry<String, Double>> list =
+        new LinkedList<Map.Entry<String, Double>>(map.entrySet());
+
+    Collections.sort(list, new Comparator<Map.Entry<String, Double>>() {
+      public int compare(Map.Entry<String, Double> o1,
+          Map.Entry<String, Double> o2) {
+        return (o2.getValue()).compareTo(o1.getValue());
+      }
+    });
+
+    Map<String, Double> sortedMap = new LinkedHashMap<String, Double>();
+    for (Map.Entry<String, Double> entry : list) {
+      sortedMap.put(entry.getKey(), entry.getValue());
+    }
+
+    for (String page : sortedMap.keySet()) {
+      System.out.println(page + ": " + sortedMap.get(page));
+    }
   }
 
 
