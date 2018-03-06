@@ -100,9 +100,13 @@ public class Crawler {
     List<String[]> urlTxtPairs = getValidURLsFromPage(page);
 
     // iterate over all URLs parsed or till expected page count reached
-    for (int i = 0; i < urlTxtPairs.size() && pagesCrawled < config.getPageCount(); i++) {
+    for (int i = 0; i < urlTxtPairs.size()
+        && pagesCrawled <= config.getPageCount(); i++) {
       String text = urlTxtPairs.get(i)[1];
       String url = urlTxtPairs.get(i)[0];
+
+      // add inLink
+      addInLink(thisURL, url);
 
       // check if url has already been registered
       if (visited.contains(url))
@@ -110,9 +114,6 @@ public class Crawler {
 
       // write to output
       fu.println(output, (++pageCount) + " | " + text + " | " + depth + " | " + url);
-
-      // add inLink
-      addInLink(thisURL, url);
 
       // if depth has not reached maximum allowed depth and target page count not reached,
       // traverse recursively depth-first
@@ -225,9 +226,14 @@ public class Crawler {
       performFocusedFilter(urlTxtPairs);
 
     // iterate over all URLs parsed or till expected page count reached
-    for (int i = 0; i < urlTxtPairs.size() && pagesCrawled < config.getPageCount(); i++) {
+    for (int i = 0; i < urlTxtPairs.size()
+        && pagesCrawled <= config.getPageCount(); i++) {
       String text = urlTxtPairs.get(i)[1];
       String url = urlTxtPairs.get(i)[0];
+
+
+      // add inLink
+      addInLink(thisURL, url);
 
       // check if URL has already been registered
       if (visited.contains(url))
@@ -238,11 +244,9 @@ public class Crawler {
       fu.println(output, (++pageCount) + " | " + text + " | " + depth + " | " + url);
       //      System.out.println((pageCount) + " | " + text + " | " + depth + " | " + url);
 
-      // add inLink
-      addInLink(thisURL, url);
 
       // return if expected page count reached
-      if (pagesCrawled >= config.getPageCount())
+      if (pagesCrawled > config.getPageCount())
         return pageCount;
     }
 
@@ -398,7 +402,7 @@ public class Crawler {
       removeCondition = removeCondition || plainHref.contains(":");
 
       // exclude pages already visited
-      if (removeCondition || visited.contains(href))
+      if (removeCondition)
         iter.remove();
 
       // form a URL-Text pair
