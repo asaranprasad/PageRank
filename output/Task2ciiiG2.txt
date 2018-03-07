@@ -1,50 +1,50 @@
-International_Standard_Book_Number 719.0
-Digital_object_identifier 365.0
-French_language 354.0
-English_language 281.0
-International_Phonetic_Alphabet 276.0
-Unicode 262.0
-Latin 221.0
-Wayback_Machine 211.0
-Language_family 204.0
-Spanish_language 201.0
-German_language 189.0
-Indo-European_languages 188.0
-France 186.0
-Glottolog 183.0
-Writing_system 181.0
-Italian_language 180.0
-Romance_languages 172.0
-Greek_language 168.0
-Portuguese_language 162.0
-JSTOR 148.0
-Vowel 146.0
-Replacement_character 146.0
-Phoneme 140.0
-ISO_639-3 138.0
-Consonant 137.0
-Latin_script 136.0
-Language 135.0
-Arabic_language 134.0
-Diacritic 131.0
-Latin_alphabet 130.0
-Dutch_language 126.0
-Chinese_language 126.0
-Japanese_language 123.0
-Greek_alphabet 119.0
-Catalan_language 115.0
-PubMed_Identifier 109.0
-Fricative_consonant 106.0
-Occitan_language 104.0
-United_States 104.0
-Alphabet 103.0
-Velar_consonant 103.0
-Stop_consonant 97.0
-Italic_languages 96.0
-Diphthong 96.0
-Orthography 95.0
-Ancient_Greek 95.0
-Hangul 95.0
-Russian_language 94.0
-Ethnologue 92.0
-Arabic_alphabet 92.0
+1 | International_Standard_Book_Number 719.0
+2 | Digital_object_identifier 365.0
+3 | French_language 354.0
+4 | English_language 281.0
+5 | International_Phonetic_Alphabet 276.0
+6 | Unicode 262.0
+7 | Latin 221.0
+8 | Wayback_Machine 211.0
+9 | Language_family 204.0
+10 | Spanish_language 201.0
+11 | German_language 189.0
+12 | Indo-European_languages 188.0
+13 | France 186.0
+14 | Glottolog 183.0
+15 | Writing_system 181.0
+16 | Italian_language 180.0
+17 | Romance_languages 172.0
+18 | Greek_language 168.0
+19 | Portuguese_language 162.0
+20 | JSTOR 148.0
+21 | Vowel 146.0
+22 | Replacement_character 146.0
+23 | Phoneme 140.0
+24 | ISO_639-3 138.0
+25 | Consonant 137.0
+26 | Latin_script 136.0
+27 | Language 135.0
+28 | Arabic_language 134.0
+29 | Diacritic 131.0
+30 | Latin_alphabet 130.0
+31 | Dutch_language 126.0
+32 | Chinese_language 126.0
+33 | Japanese_language 123.0
+34 | Greek_alphabet 119.0
+35 | Catalan_language 115.0
+36 | PubMed_Identifier 109.0
+37 | Fricative_consonant 106.0
+38 | Occitan_language 104.0
+39 | United_States 104.0
+40 | Alphabet 103.0
+41 | Velar_consonant 103.0
+42 | Stop_consonant 97.0
+43 | Italic_languages 96.0
+44 | Diphthong 96.0
+45 | Orthography 95.0
+46 | Ancient_Greek 95.0
+47 | Hangul 95.0
+48 | Russian_language 94.0
+49 | Ethnologue 92.0
+50 | Arabic_alphabet 92.0

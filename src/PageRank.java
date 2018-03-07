@@ -9,23 +9,29 @@ public class PageRank {
   private int iterationsLimit;
   private List<Double> perplexity;
 
+  // Constructor with custom damping factor
   public PageRank(double dampingFactor) {
     d = dampingFactor;
     iterationsLimit = Integer.MAX_VALUE;
     perplexity = new ArrayList<Double>();
   }
 
+  // Constructor with custom damping factor and convergence iterations limit
   public PageRank(double dampingFactor, int iterationsLimit) {
     d = dampingFactor;
     this.iterationsLimit = iterationsLimit;
     perplexity = new ArrayList<Double>();
   }
 
-  //P is the set of all pages; |P| = N
-  //S is the set of sink nodes, i.e., pages that have no out links
-  //M(p) is the set (without duplicates) of pages that link to page p
-  //L(q) is the number of out-links (without duplicates) from page q
-  //d is the PageRank damping/teleportation factor; use d = 0.85 as a fairly typical value
+  /*
+   * Calculates PageRank
+   * 
+   * P is the set of all pages; |P| = N
+   * S is the set of sink nodes, i.e., pages that have no out links
+   * M(p) is the set (without duplicates) of pages that link to page p
+   * L(q) is the number of out-links (without duplicates) from page q
+   * d is the PageRank damping/teleportation factor; use d = 0.85 as a fairly typical value
+   */
   public HashMap<String, Double> calculatePageRank(Graph g) {
     HashMap<String, Double> PR = new HashMap<String, Double>();
     double N = (double) g.size();
@@ -69,12 +75,14 @@ public class PageRank {
     return PR;
   }
 
+  /* Calculates and keeps track of the perplexity value of the Page Rank */
   private void calculatePerplexity(HashMap<String, Double> PR) {
     double p = Math.pow(2, H(PR));
     perplexity.add(p);
     System.out.println(p);
   }
 
+  /* Calculates the Shannon entropy of the Page Rank distribution */
   private double H(HashMap<String, Double> PR) {
     double perplexity = 0;
     double log2 = Math.log(2);
@@ -86,6 +94,7 @@ public class PageRank {
     return perplexity;
   }
 
+  /* Returns true of the Page Rank has converged */
   private boolean hasConverged(HashMap<String, Double> PR) {
     if (perplexity.size() < CONVERGENCE_THRESHOLD)
       return false;

@@ -1,0 +1,51 @@
+### Task 2c - Analysis on PageRank variations with respect to Task 2b as baseline
+
+## Task 2c-i - Damping factor reduced from 0.85 to 0.55
+# BFS Graph1 - Damping Factor - 0.55
+680.0893660487912
+654.8065891828851
+638.9045198085157
+632.9387732778513
+630.8062126055536
+630.0489059924884
+629.784100475113
+629.6917720702307
+
+# DFS Graph2 - Damping Factor - 0.55
+748.3285136050742
+748.3149896641073
+744.066464191493
+743.495133335067
+743.3346463626146
+743.3326540140802
+
+Observation: Damping factor reduced from 0.85 to 0.55 causes convergence to happen sooner.
+
+
+## Task 2c-ii - Rerun PageRank in Task 2b for exactly 4 iterations
+# BFS Graph1 - Page Rank 4 iterations
+454.39279056114674
+400.977661730294
+356.99275038673625
+332.53072946352955
+
+# DFS Graph2 - Page Rank 4 iterations
+541.5159416673431
+530.2111517490546
+513.4959020482503
+509.2498346140174
+
+Observation: 	- Top ranked results from seem to maintain same spots as in Page Rank with unlimited iterations from Task 2b.
+				- Lower ranked pages have more deviations in their ranking.
+
+
+## Task 2c-iii - Ranking documents based on sorted raw in-link count
+
+Observation:	2 pages from top 10 of Task-2C-iii-Graph1 occur in the top 10 of Task-2B-Graph1
+				4 pages from the top 10 of Task-2C-iii-Graph2 occur in the top 10 of Task-2B-Graph2
+				Pros: 
+					1. Quicker computation of ranks. 
+					2. Relatively less overhead in use of space and computation resources.
+				Cons:
+					1. Since the raw in-link count does not consider the rank of the pages from which the inlinks are from, it is likely that unpopular / less authentic pages with more inlinks have higher ranks than popular pages with authentic information.
+					2. Pages with no inlinks receive the lowest of ranks.

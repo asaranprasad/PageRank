@@ -177,6 +177,11 @@ public class Crawler {
   }
 
 
+  /**
+   * Writes to output the in-link graph
+   * 
+   * @param graph - output writer handle
+   */
   private void writeToGraph(PrintWriter graph) {
     int counter = 0;
     for (String urlsVisited : visited) {
@@ -281,9 +286,15 @@ public class Crawler {
   }
 
 
-  private void addInLink(String thisURL, String url) {
-    String docID = getDocID(url);
-    String inLinkDocID = getDocID(thisURL);
+  /**
+   * Creates an in-link mapping between the urls, post converting the urls into DocIds
+   * 
+   * @param inLinkUrl - Map value entry
+   * @param docUrl - Map Key
+   */
+  private void addInLink(String inLinkUrl, String docUrl) {
+    String docID = getDocID(docUrl);
+    String inLinkDocID = getDocID(inLinkUrl);
 
     HashSet<String> inLinkDocIDs;
     if (inLinks.containsKey(docID))
@@ -295,6 +306,7 @@ public class Crawler {
     inLinks.put(docID, inLinkDocIDs);
   }
 
+  /* Extracts DocId from the given url */
   private String getDocID(String url) {
     return url.substring(url.lastIndexOf('/') + 1, url.length());
   }

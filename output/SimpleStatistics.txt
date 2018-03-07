@@ -1,0 +1,10 @@
+## Analysis
+
+### Simple Statistics
+Graph G1:
+The	number of pages with no in-links (sources) - 0
+The number of pages with no out-links (sinks)  - 7
+
+Graph G2:
+The	number of pages with no in-links (sources) - 0
+The number of pages with no out-links (sinks)  - 7

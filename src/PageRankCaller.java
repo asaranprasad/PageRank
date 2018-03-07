@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class PageRankCaller {
 
-
+  /* Tests */
   public static void main(String[] args) {
     try {
       CrawlConfig config = new CrawlConfig();
@@ -54,6 +54,7 @@ public class PageRankCaller {
 
   }
 
+  /* Testing the pageRank functionality */
   private static void pageRankTests() {
     HashMap<String, Double> pageRanks;
     PageRank pr;
@@ -131,7 +132,7 @@ public class PageRankCaller {
 
   }
 
-
+  /* Sorts nodes by their scores and prints them to output file */
   private static void printPageRanksSortByScores(HashMap<String, Double> map,
       String printPath, int limitLines) {
     try {
@@ -148,20 +149,21 @@ public class PageRankCaller {
         }
       });
 
+      int counter = 1;
       for (Map.Entry<String, Double> entry : list) {
-        if (limitLines < 1)
+        if (counter > limitLines)
           break;
         String page = entry.getKey();
         Double score = entry.getValue();
-        fu.println(pr, page + " " + score);
-        //        System.out.println(page + " " + score);
-        limitLines--;
+        fu.println(pr, counter + " | " + page + " " + score);
+        counter++;
       }
     } catch (FileNotFoundException fne) {
       fne.printStackTrace();
     }
   }
 
+  /* Sorts and prints to output file the nodes by their inlinks count */
   private static void printInLinkCounts(HashMap<String, HashSet<String>> map1,
       String printPath, int limit) {
     HashMap<String, Double> map = new HashMap<String, Double>();
